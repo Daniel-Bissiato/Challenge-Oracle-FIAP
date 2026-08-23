@@ -1,0 +1,43 @@
+ Procedimentos hospitalares do SUS - por local de internação - Brasil
+Óbitos por Unidade da Federação e Ano/mês processamento
+Período:Mai/2025
+"Unidade da Federação";"2025/Mai";"Total"
+"11 Rondônia";369;369
+"12 Acre";152;152
+"13 Amazonas";575;575
+"14 Roraima";96;96
+"15 Pará";1463;1463
+"16 Amapá";148;148
+"17 Tocantins";300;300
+"21 Maranhão";1354;1354
+"22 Piauí";684;684
+"23 Ceará";2226;2226
+"24 Rio Grande do Norte";807;807
+"25 Paraíba";1041;1041
+"26 Pernambuco";2448;2448
+"27 Alagoas";651;651
+"28 Sergipe";455;455
+"29 Bahia";3208;3208
+"31 Minas Gerais";6272;6272
+"32 Espírito Santo";1154;1154
+"33 Rio de Janeiro";4934;4934
+"35 São Paulo";13413;13413
+"41 Paraná";3572;3572
+"42 Santa Catarina";2201;2201
+"43 Rio Grande do Sul";3836;3836
+"50 Mato Grosso do Sul";777;777
+"51 Mato Grosso";774;774
+"52 Goiás";1506;1506
+"53 Distrito Federal";599;599
+"Total";55015;55015
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
