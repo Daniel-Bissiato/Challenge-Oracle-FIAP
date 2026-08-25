@@ -49,7 +49,7 @@ Este documento descreve as duas tabelas finais processadas pelo grupo, resultant
 **Granularidade:** 1 linha = 1 estado (UF) em 1 ano.
 **Chave primária:** `CO_UF_IBGE` + `Ano`.
 **Linhas:** 81 (27 UFs × 3 anos)
-**Fontes:** CNES Leitos (agregado), IBGE População, SIH Internações, Óbitos Hospitalares (DATASUS/TabNet). Integração original preparada pelo colega de equipe, auditada de forma independente pelo autor deste documento.
+**Fontes:** CNES Leitos (agregado), IBGE População, SIH Internações, Óbitos Hospitalares (DATASUS/TabNet).
 
 | Coluna | Tipo | Descrição | Fonte | Observações |
 |---|---|---|---|---|
