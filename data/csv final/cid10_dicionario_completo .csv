@@ -1,0 +1,2177 @@
+CODIGO,DESCRICAO_CID
+A048,Outras infecções bacterianas intestinais especificadas
+A049,Infecção intestinal bacteriana não especificada
+A080,Enterite por rotavírus
+A083,Outras enterites virais
+A084,Infecção intestinal devida a vírus não especificado
+A085,Outras infecções intestinais especificadas
+A09,Diarréia e gastroenterite de origem infecciosa presumível
+A150,"Tuberculose pulmonar, com confirmação por exame microscópico da expectoração, com ou sem cultura"
+A153,"Tuberculose pulmonar, com confirmação por meio não especificado"
+A156,"Pleuris tuberculoso, com confirmação bacteriológica e histológica"
+A159,"Tuberculose não especificada das vias respiratórias, com confirmação bacteriológica e histológica"
+A169,"Tuberculose respiratória, não especificada, sem menção de confirmação bacteriológica ou histológica"
+A279,Leptospirose não especificada
+A310,Infecção pulmonar micobacteriana
+A311,Infecção cutânea micobacteriana
+A318,Outras infecções micobacterianas
+A319,Infecção micobacteriana não especificada
+A403,Septicemia por Streptococcus pneumonia
+A408,Outras septicemias estreptocócicas
+A409,Septicemia estreptocócica não especificada
+A410,Septicemia por Staphylococcus aureus
+A411,Septicemia por outros estafilococos especificados
+A412,Septicemia por estafilococos não especificados
+A414,Septicemia por anaeróbios
+A415,Septicemia por outros microorganismos gram-negativos
+A418,Outras septicemias especificadas
+A419,Septicemia não especificada
+A46,Erisipela
+A480,Gangrena gasosa
+A488,Outras doenças bacterianas especificadas
+A490,Infecção estafilocócica de localização não especificada
+A491,Infecção estreptocócica de localização não especificada
+A498,Outras infecções bacterianas de localização não especificada
+A499,Infecção bacteriana não especificada
+A500,Sífilis congênita precoce sintomática
+A501,"Sífilis congênita precoce, forma latente"
+A502,Sífilis congênita precoce não especificada
+A509,Sífilis congênita não especificada
+A522,Neurossífilis assintomática
+A630,Verrugas anogenitais (venéreas)
+A90,Dengue [dengue clássico]
+A91,Febre hemorrágica devida ao vírus do dengue
+B012,Pneumopatia varicelosa
+B07,Verrugas de origem viral
+B081,Molusco contagioso
+B088,Outras infecções virais especificadas caracterizadas por lesões de pele e das membranas mucosas
+B169,Hepatite aguda B sem agente Delta e sem coma hepático
+B200,Doença pelo HIV resultando em infecções micobacterianas
+B201,Doença pelo HIV resultando em outras infecções bacterianas
+B202,Doença pelo HIV resultando em doença citomegálica
+B207,Doença pelo HIV resultando em infecções múltiplas
+B209,Doença pelo HIV resultando em doença infecciosa ou parasitária não especificada
+B210,Doença pelo HIV resultando em sarcoma de Kaposi
+B219,Doença pelo HIV resultando em neoplasia maligna não especificada
+B220,Doença pelo HIV resultando em encefalopatia
+B24,Doença pelo vírus da imunodeficiência humana [HIV] não especificada
+B258,Outras doenças por citomegalovírus
+B259,Doença não especificada por citomegalovírus
+B340,Infecção por adenovírus de localização não especificada
+B342,Infecção por coronavírus de localização não especificada
+B348,Outras infecções por vírus de localização não especificada
+B349,Infecção viral não especificada
+B551,Leishmaniose cutânea
+B552,Leishmaniose cutâneo-mucosa
+B59,Pneumocistose
+B871,Miíase das feridas
+B91,Seqüelas de poliomielite
+B92,Seqüelas de hanseníase [lepra]
+B955,"Estreptococo não especificado, como causa de doenças classificadas em outros capítulos"
+B956,"Staphylococcus aureus, como causa de doenças classificadas em outros capítulos"
+B957,Outros estafilococos como causa de doenças classificadas em outros capítulos
+B958,"Estafilococo não especificado, como causa de doenças classificadas em outros capítulos"
+B99,"Doenças infecciosas, outras e as não especificadas"
+C001,Neoplasia maligna do lábio inferior externo
+C008,Neoplasia maligna do lábio com lesão invasiva
+C009,"Neoplasia maligna do lábio, não especificado"
+C01,Neoplasia maligna da base da língua
+C021,Neoplasia maligna da borda da língua
+C028,Neoplasia maligna da língua com lesão invasiva
+C029,"Neoplasia maligna da língua, não especificada"
+C048,Neoplasia maligna do assoalho da boca com lesão invasiva
+C049,"Neoplasia maligna do assoalho da boca, não especificado"
+C069,"Neoplasia maligna da boca, não especificada"
+C07,Neoplasia maligna da glândula parótida
+C108,Neoplasia maligna da orofaringe com lesão invasiva
+C109,"Neoplasia maligna da orofaringe, não especificada"
+C119,"Neoplasia maligna da nasofaringe, não especificada"
+C139,"Neoplasia maligna da hipofaringe, não especificada"
+C150,Neoplasia maligna da porção cervical do esôfago (esôfago cervical)
+C158,Neoplasia maligna do esôfago com lesão invasiva
+C159,"Neoplasia maligna do esôfago, não especificado"
+C160,Neoplasia maligna da cárdia
+C161,Neoplasia maligna do fundo do estômago
+C162,Neoplasia maligna do corpo do estômago
+C163,Neoplasia maligna do antro pilórico
+C165,"Neoplasia maligna da pequena curvatura do estômago, não especificada"
+C166,"Neoplasia maligna da grande curvatura do estômago, não especificada"
+C168,Neoplasia maligna do estômago com lesão invasiva
+C169,"Neoplasia maligna do estômago, não especificado"
+C170,Neoplasia maligna do duodeno
+C179,"Neoplasia maligna do intestino delgado, não especificado"
+C180,Neoplasia maligna do ceco
+C181,Neoplasia maligna do apêndice (vermiforme)
+C182,Neoplasia maligna do cólon ascendente
+C183,Neoplasia maligna da flexura (ângulo) hepática(o)
+C184,Neoplasia maligna do cólon transverso
+C186,Neoplasia maligna do cólon descendente
+C187,Neoplasia maligna do cólon sigmóide
+C188,Neoplasia maligna do cólon com lesão invasiva
+C189,"Neoplasia maligna do cólon, não especificado"
+C19,Neoplasia maligna da junção retossigmóide
+C20,Neoplasia maligna do reto
+C210,"Neoplasia maligna do ânus, não especificado"
+C211,Neoplasia maligna do canal anal
+C218,"Neoplasia maligna do reto, ânus e do canal anal com lesão invasiva"
+C220,Carcinoma de células hepáticas
+C221,Carcinoma de vias biliares intra-hepáticas
+C222,Hepatoblastoma
+C227,Outros carcinomas especificados do fígado
+C229,"Neoplasia maligna do fígado, não especificada"
+C23,Neoplasia maligna da vesícula biliar
+C240,Neoplasia maligna das vias biliares extra-hepáticas
+C249,"Neoplasia maligna da via biliar, não especificada"
+C250,Neoplasia maligna da cabeça do pâncreas
+C251,Neoplasia maligna do corpo do pâncreas
+C258,Neoplasia maligna do pâncreas com lesão invasiva
+C259,"Neoplasia maligna do pâncreas, não especificado"
+C310,Neoplasia maligna do seio maxilar
+C320,Neoplasia maligna da glote
+C321,Neoplasia maligna da região supraglótica
+C328,Neoplasia maligna da laringe com lesão invasiva
+C329,"Neoplasia maligna da laringe, não especificada"
+C340,Neoplasia maligna do brônquio principal
+C341,"Neoplasia maligna do lobo superior, brônquio ou pulmão"
+C342,"Neoplasia maligna do lobo médio, brônquio ou pulmão"
+C343,"Neoplasia maligna do lobo inferior, brônquio ou pulmão"
+C348,Neoplasia maligna dos brônquios e dos pulmões com lesão invasiva
+C349,"Neoplasia maligna dos brônquios ou pulmões, não especificado"
+C37,Neoplasia maligna do timo
+C400,Neoplasia maligna da omoplata [escápula] e ossos longos dos membros superiores
+C402,Neoplasia maligna dos ossos longos dos membros inferiores
+C403,Neoplasia maligna dos ossos curtos dos membros inferiores
+C409,Neoplasia maligna dos ossos e cartilagens articulares de membro não especificado
+C412,Neoplasia maligna da coluna vertebral
+C414,"Neoplasia maligna dos ossos da pelve, sacro e cóccix"
+C418,Neoplasia maligna dos ossos e das cartilagens articulares com lesão invasiva
+C419,"Neoplasia maligna dos ossos e cartilagens articulares, não especificados"
+C431,"Melanoma maligno da pálpebra, incluindo as comissuras palpebrais"
+C433,Melanoma maligno de outras partes e partes não especificadas da face
+C435,Melanoma maligno do tronco
+C437,"Melanoma maligno do membro inferior, incluindo quadril"
+C438,Melanoma maligno invasivo da pele
+C439,"Melanoma maligno de pele, não especificado"
+C440,Neoplasia maligna da pele do lábio
+C441,"Neoplasia maligna da pele da pálpebra, incluindo o canto"
+C442,Neoplasia maligna da pele da orelha e do conduto auditivo externo
+C443,Neoplasia maligna da pele de outras partes e de partes não especificadas da face
+C444,Neoplasia maligna da pele do couro cabeludo e do pescoço
+C445,Neoplasia maligna da pele do tronco
+C446,"Neoplasia maligna da pele do membro superior, incluindo ombro"
+C447,"Neoplasia maligna da pele do membro inferior, incluindo quadril"
+C448,Neoplasia maligna da pele com lesão invasiva
+C449,"Neoplasia maligna da pele, não especificada"
+C480,Neoplasia maligna do retroperitônio
+C490,"Neoplasia maligna do tecido conjuntivo e tecidos moles da cabeça, face e pescoço"
+C491,"Neoplasia maligna do tecido conjuntivo e tecidos moles dos membros superiores, incluindo ombro"
+C492,"Neoplasia maligna do tecido conjuntivo e tecidos moles dos membros inferiores, incluindo quadril"
+C493,Neoplasia maligna do tecido conjuntivo e tecidos moles do tórax
+C495,Neoplasia maligna do tecido conjuntivo e tecidos moles da pelve
+C496,Neoplasia maligna do tecido conjuntivo e tecidos moles do tronco
+C498,Neoplasia maligna do tecido conjuntivo e dos tecidos moles com lesão invasiva
+C499,"Neoplasia maligna do tecido conjuntivo e tecidos moles, não especificados"
+C500,Neoplasia maligna do mamilo e aréola
+C501,Neoplasia maligna da porção central da mama
+C502,Neoplasia maligna do quadrante superior interno da mama
+C503,Neoplasia maligna do quadrante inferior interno da mama
+C504,Neoplasia maligna do quadrante superior externo da mama
+C505,Neoplasia maligna do quadrante inferior externo da mama
+C506,Neoplasia maligna da porção axilar da mama
+C508,Neoplasia maligna da mama com lesão invasiva
+C509,"Neoplasia maligna da mama, não especificada"
+C510,Neoplasia maligna dos grandes lábios
+C519,"Neoplasia maligna da vulva, não especificada"
+C530,Neoplasia maligna do endocérvix
+C531,Neoplasia maligna do exocérvix
+C538,Neoplasia maligna do colo do útero com lesão invasiva
+C539,"Neoplasia maligna do colo do útero, não especificado"
+C541,Neoplasia maligna do endométrio
+C548,Neoplasia maligna do corpo do útero com lesão invasiva
+C549,"Neoplasia maligna do corpo do útero, não especificado"
+C56,Neoplasia maligna do ovário
+C609,"Neoplasia maligna do pênis, não especificado"
+C61,Neoplasia maligna da próstata
+C621,Neoplasia maligna do testículo tópico
+C629,"Neoplasia maligna do testículo, sem outras especificações"
+C64,"Neoplasia maligna do rim, exceto pelve renal"
+C65,Neoplasia maligna da pelve renal
+C66,Neoplasia maligna dos ureteres
+C670,Neoplasia maligna do trígono da bexiga
+C671,Neoplasia maligna da cúpula da bexiga
+C672,Neoplasia maligna da parede lateral da bexiga
+C673,Neoplasia maligna da parede anterior da bexiga
+C674,Neoplasia maligna da parede posterior da bexiga
+C675,Neoplasia maligna do colo da bexiga
+C678,Neoplasia maligna da bexiga com lesão invasiva
+C679,"Neoplasia maligna da bexiga, sem outra especificações"
+C692,Neoplasia maligna da retina
+C693,Neoplasia maligna da coróide
+C698,Neoplasia maligna do olho e anexos com lesão invasiva
+C699,"Neoplasia maligna do olho, não especificado"
+C710,"Neoplasia maligna do cérebro, exceto lobos e ventrículos"
+C711,Neoplasia maligna do lobo frontal
+C715,Neoplasia maligna do ventrículo cerebral
+C716,Neoplasia maligna do cerebelo
+C717,Neoplasia maligna do tronco cerebral
+C718,Neoplasia maligna do encéfalo com lesão invasiva
+C719,"Neoplasia maligna do encéfalo, não especificado"
+C728,Neoplasia maligna do encéfalo e de outras partes do sistema nervoso central com lesão invasiva
+C729,"Neoplasia maligna do sistema nervoso central, não especificado"
+C73,Neoplasia maligna da glândula tireóide
+C740,Neoplasia maligna do córtex da supra-renal
+C749,"Neoplasia maligna da glândula supra-renal, não especificada"
+C760,"Neoplasia maligna da cabeça, face e pescoço"
+C767,Neoplasia maligna de outras localizações mal definidas
+C768,Neoplasia maligna de outras localizações e das mal definidas com lesão invasiva
+C770,"Neoplasia maligna secundária e não especificada dos gânglios linfáticos da cabeça, face e pescoço"
+C773,Neoplasia maligna secundária e não especificada dos gânglios linfáticos axilares e dos membros superiores
+C774,Neoplasia maligna secundária e não especificada dos gânglios linfáticos inguinais e dos membros inferiores
+C778,Neoplasia maligna secundária e não especificada dos gânglios linfáticos de múltiplas regiões
+C780,Neoplasia maligna secundária dos pulmões
+C786,Neoplasia maligna secundária do retroperitônio e do peritônio
+C787,Neoplasia maligna secundária do fígado
+C793,Neoplasia maligna secundária do encéfalo e das meninges cerebrais
+C794,Neoplasia maligna secundária de outras partes do sistema nervoso e não especificadas
+C795,Neoplasia maligna secundária dos ossos e da medula óssea
+C798,Neoplasia maligna secundária de outra localização especificada
+C80,"Neoplasia maligna, sem especificação de localização"
+C810,"Doença de Hodgkin, predominância linfocítica"
+C811,"Doença de Hodgkin, esclerose nodular"
+C817,Outra forma da doença de Hodgkin
+C819,"Doença de Hodgkin, não especificada"
+C820,"Linfoma não-Hodgkin, pequenas células clivadas, folicular"
+C829,"Linfoma não-Hodgkin, folicular, não especificado"
+C833,"Linfoma não-Hodgkin difuso, grandes células (difuso)"
+C835,"Linfoma não-Hodgkin difuso, linfoblástico (difuso)"
+C837,Tumor de Burkitt
+C839,"Linfoma não-Hodgkin difuso, não especificado"
+C845,Outros linfomas de células T e os não especificados
+C851,"Linfoma de células B, não especificado"
+C857,Outros tipos especificados de linfoma não-Hodgkin
+C859,Linfoma não-Hodgkin de tipo não especificado
+C889,"Doença imunoproliferativa maligna, não especificada"
+C900,Mieloma múltiplo
+C910,Leucemia linfoblástica aguda
+C911,Leucemia linfocítica crônica
+C919,"Leucemia linfóide, não especificada"
+C920,Leucemia mielóide aguda
+C921,Leucemia mielóide crônica
+C924,Leucemia pró-mielocítica aguda
+C929,"Leucemia mielóide, não especificada"
+C945,Mielofibrose aguda
+C950,Leucemia aguda de tipo celular não especificado
+C959,Leucemia não especificada
+C967,"Outras neoplasias malignas especificadas dos tecidos linfático, hematopoético e tecidos correlatos"
+C97,Neoplasias malignas de localizações múltiplas independentes (primárias)
+D043,Carcinoma in situ da pele de outras partes e de partes não especificadas da face
+D044,Carcinoma in situ da pele do couro cabeludo e do pescoço
+D048,Carcinoma in situ da pele de outras localizações
+D051,Carcinoma intraductal in situ
+D059,"Carcinoma in situ da mama, não especificado"
+D060,Carcinoma in situ do endocérvix
+D061,Carcinoma in situ do exocérvix
+D067,Carcinoma in situ de outras partes do colo do útero
+D069,"Carcinoma in situ do colo do útero, não especificado"
+D093,Carcinoma in situ da tireóide e de outras glândulas endócrinas
+D110,Neoplasia benigna da glândula parótida
+D119,"Neoplasia benigna da glândula salivar maior, não especificada"
+D141,Neoplasia benigna da laringe
+D142,Neoplasia benigna da traquéia
+D162,Neoplasia benigna dos ossos longos dos membros inferiores
+D170,"Neoplasia lipomatosa benigna da pele e do tecido subcutâneo da cabeça, face e pescoço"
+D171,Neoplasia lipomatosa benigna da pele e tecido subcutâneo do tronco
+D172,Neoplasia lipomatosa benigna da pele e tecido subcutâneo dos membros
+D173,Neoplasia lipomatosa benigna da pele e tecido subcutâneo de outras localizações e de localizações não especificadas
+D177,Neoplasia lipomatosa benigna de outras localizações
+D179,Neoplasia lipomatosa benigna de localização não especificada
+D180,Hemangioma de qualquer localização
+D181,Linfangioma de qualquer localização
+D210,"Neoplasia benigna do tecido conjuntivo e outros tecidos moles da cabeça, face e pescoço"
+D211,"Neoplasia benigna do tecido conjuntivo e outros tecidos moles dos membros superiores, incluindo ombro"
+D219,"Neoplasia benigna do tecido conjuntivo e outros tecidos moles, sem outra especificação"
+D220,Nevo melanocítico do lábio
+D223,Nevo melanocítico de outras partes e de partes não especificadas da face
+D225,Nevo melanocítico do tronco
+D226,"Nevo melanocítico dos membros superiores, incluindo ombro"
+D227,"Nevo melanocítico dos membros inferiores, incluindo quadril"
+D229,"Nevo melanocítico, não especificado"
+D231,"Neoplasia benigna da pele da pálpebra, incluindo o canto"
+D233,Neoplasia benigna da pele de outras partes e de partes não especificadas da face
+D234,Neoplasia benigna da pele do couro cabeludo e do pescoço
+D235,Neoplasia benigna da pele do tronco
+D239,"Neoplasia benigna da pele, não especificada"
+D24,Neoplasia benigna da mama
+D250,Leiomioma submucoso do útero
+D251,Leiomioma intramural do útero
+D252,Leiomioma subseroso do útero
+D259,"Leiomioma do útero, não especificado"
+D267,Neoplasia benigna de outras partes do útero
+D27,Neoplasia benigna do ovário
+D320,Neoplasia benigna das meninges cerebrais
+D329,"Neoplasia benigna das meninges, não especificada"
+D337,Neoplasia benigna de outras partes especificadas do sistema nervoso central
+D34,Neoplasia benigna da glândula tireóide
+D352,Neoplasia benigna da glândula hipófise (pituitária)
+D369,Neoplasia benigna de localização não especificada
+D370,"Neoplasia de comportamento incerto ou desconhecido do lábio, cavidade oral e faringe"
+D374,Neoplasia de comportamento incerto ou desconhecido dos cólons
+D380,Neoplasia de comportamento incerto ou desconhecido da laringe
+D381,"Neoplasia de comportamento incerto ou desconhecido da traquéia, brônquios e pulmão"
+D390,Neoplasia de comportamento incerto ou desconhecido do útero
+D391,Neoplasia de comportamento incerto ou desconhecido do ovário
+D400,Neoplasia de comportamento incerto ou desconhecido da próstata
+D410,Neoplasia de comportamento incerto ou desconhecido do rim
+D411,Neoplasia de comportamento incerto ou desconhecido da pelve renal
+D414,Neoplasia de comportamento incerto ou desconhecido da bexiga
+D430,"Neoplasia de comportamento incerto ou desconhecido do encéfalo, supratentorial"
+D431,"Neoplasia de comportamento incerto ou desconhecido do encéfalo, infratentorial"
+D432,"Neoplasia de comportamento incerto ou desconhecido do encéfalo, não especificado"
+D437,Neoplasia de comportamento incerto ou desconhecido de outras partes do sistema nervoso central
+D439,"Neoplasia de comportamento incerto ou desconhecido do sistema nervoso central, não especificado"
+D440,Neoplasia de comportamento incerto ou desconhecido da glândula tireóide
+D443,Neoplasia de comportamento incerto ou desconhecido da glândula hipófise (pituitária)
+D464,"Anemia refratária, não especificada"
+D467,Outras síndromes mielodisplásicas
+D469,"Síndrome mielodisplásica, não especificada"
+D479,"Neoplasia de comportamento incerto ou desconhecido dos tecidos linfático, hematopoético e tecidos correlatos, não especificada"
+D480,Neoplasia de comportamento incerto ou desconhecido dos ossos e cartilagens articulares
+D481,Neoplasia de comportamento incerto ou desconhecido do tecido conjuntivo e outros tecidos moles
+D485,Neoplasia de comportamento incerto ou desconhecido da pele
+D486,Neoplasia de comportamento incerto ou desconhecido da mama
+D487,Neoplasia de comportamento incerto ou desconhecido de outras localizações especificadas
+D489,Neoplasia de comportamento incerto ou desconhecido sem outra especificação
+D500,Anemia por deficiência de ferro secundária à perda de sangue (crônica)
+D508,Outras anemias por deficiência de ferro
+D509,Anemia por deficiência de ferro não especificada
+D518,Outras anemias por deficiência de vitamina B12
+D530,Anemia por deficiência de proteínas
+D538,Outras anemias nutricionais especificadas
+D539,Anemia nutricional não especificada
+D570,Anemia falciforme com crise
+D571,Anemia falciforme sem crise
+D572,Transtornos falciformes heterozigóticos duplos
+D600,Aplasia pura adquirida crônica da série vermelha
+D613,Anemia aplástica idiopática
+D619,Anemia aplástica não especificada
+D62,Anemia aguda pós-hemorrágica
+D630,Anemia em neoplasias
+D644,Anemia diseritropoética congênita
+D648,Outras anemias especificadas
+D649,Anemia não especificada
+D66,Deficiência hereditária do fator VIII
+D689,Defeito de coagulação não especificado
+D691,Defeitos qualitativos das plaquetas
+D693,Púrpura trombocitopênica idiopática
+D696,Trombocitopenia não especificada
+D70,Agranulocitose
+D729,Transtornos não especificados dos glóbulos brancos
+D758,Outras doenças especificadas do sangue e dos órgãos hematopoéticos
+D759,Doença não especificada do sangue e dos órgãos hematopoéticos
+D77,Outros transtornos do sangue e dos órgãos hematopoéticos em doenças classificadas em outra parte
+D800,Hipogamaglobulinemia hereditária
+D801,Hipogamaglobulinemia não familiar
+D803,Deficiência seletiva de subclasses de imunoglobulina G [IgG]
+D809,Imunodeficiência não especificada com predominância de defeitos de anticorpos
+D819,Deficiências imunitárias combinadas não especificadas
+D830,Imunodeficiência comum variável com predominância de anormalidades do número e da função das células B
+D831,Imunodeficiência comum variável com predominância de transtornos imunorregulatórios de células T
+D838,Outras imunodeficiências comuns variáveis
+D839,Imunodeficiência comum variável não especificada
+D849,Imunodeficiência não especificada
+E039,Hipotireoidismo não especificado
+E041,Bócio não-tóxico uninodular
+E042,Bócio não-tóxico multinodular
+E048,Outro bócio não-tóxico especificado
+E065,Outras tireoidites crônicas
+E079,Transtorno não especificado da tireóide
+E100,Diabetes mellitus insulino-dependente - com coma
+E101,Diabetes mellitus insulino-dependente - com cetoacidose
+E105,Diabetes mellitus insulino-dependente - com complicações circulatórias periféricas
+E106,Diabetes mellitus insulino-dependente - com outras complicações especificadas
+E107,Diabetes mellitus insulino-dependente - com complicações múltiplas
+E108,Diabetes mellitus insulino-dependente - com complicações não especificadas
+E109,Diabetes mellitus insulino-dependente - sem complicações
+E111,Diabetes mellitus não-insulino-dependente - com cetoacidose
+E115,Diabetes mellitus não-insulino-dependente - com complicações circulatórias periféricas
+E116,Diabetes mellitus não-insulino-dependente - com outras complicações especificadas
+E118,Diabetes mellitus não-insulino-dependente - com complicações não especificadas
+E119,Diabetes mellitus não-insulino-dependente - sem complicações
+E131,Outros tipos especificados de diabetes mellitus - com cetoacidose
+E135,Outros tipos especificados de diabetes mellitus - com complicações circulatórias periféricas
+E138,Outros tipos especificados de diabetes mellitus - com complicações não especificadas
+E139,Outros tipos especificados de diabetes mellitus - sem complicações
+E141,Diabetes mellitus não especificado - com cetoacidose
+E145,Diabetes mellitus não especificado - com complicações circulatórias periféricas
+E146,Diabetes mellitus não especificado - com outras complicações especificadas
+E147,Diabetes mellitus não especificado - com complicações múltiplas
+E148,Diabetes mellitus não especificado - com complicações não especificadas
+E149,Diabetes mellitus não especificado - sem complicações
+E210,Hiperparatireoidismo primário
+E211,Hiperparatireoidismo secundário não classificado em outra parte
+E240,Síndrome de Cushing dependente da hipófise
+E260,Hiperaldosteronismo primário
+E43,Desnutrição protéico-calórica grave não especificada
+E440,Desnutrição protéico-calórica moderada
+E441,Desnutrição protéico-calórica leve
+E46,Desnutrição protéico-calórica não especificada
+E65,Adiposidade localizada
+E660,Obesidade devida a excesso de calorias
+E668,Outra obesidade
+E669,Obesidade não especificada
+E700,Fenilcetonúria clássica
+E702,Distúrbios do metabolismo da tirosina
+E713,Distúrbios do metabolismo de ácidos graxos
+E730,Deficiência congênita de lactase
+E761,Mucopolissacaridose do tipo II
+E763,Mucopolissacaridose não especificada
+E831,Doença do metabolismo do ferro
+E835,Distúrbios do metabolismo do cálcio
+E839,Distúrbio não especificado do metabolismo mineral
+E840,Fibrose cística com manifestações pulmonares
+E849,Fibrose cística não especificada
+E86,Depleção de volume
+E870,Hiperosmolaridade e hipernatremia
+E871,Hiposmolaridade e hiponatremia
+E874,Distúrbio misto do equilíbrio ácido-básico
+E875,Hiperpotassemia
+E876,Hipopotassemia
+E878,Outros transtornos do equilíbrio hidroeletrolítico não classificados em outra parte
+E881,Lipodistrofia não classificada em outra parte
+E882,Lipomatose não classificada em outra parte
+E888,Outros distúrbios especificados do metabolismo
+E889,Distúrbio metabólico não especificado
+E90,Transtornos nutricionais e metabólicos em doenças classificadas em outra parte
+F028,Demência em outras doenças especificadas classificadas em outra parte
+F03,Demência não especificada
+F058,Outro delirium
+F059,Delirium não especificado
+F062,Transtorno delirante orgânico [tipo esquizofrênico]
+F063,Transtornos do humor [afetivos] orgânicos
+F068,Outros transtornos mentais especificados devidos a uma lesão e disfunção cerebral e a uma doença física
+F069,Transtorno mental não especificado devido a uma lesão e disfunção cerebral e a uma doença física
+F09,Transtorno mental orgânico ou sintomático não especificado
+F100,Transtornos mentais e comportamentais devidos ao uso de álcool - intoxicação aguda
+F101,Transtornos mentais e comportamentais devidos ao uso de álcool - uso nocivo para a saúde
+F102,Transtornos mentais e comportamentais devidos ao uso de álcool - síndrome de dependência
+F103,Transtornos mentais e comportamentais devidos ao uso de álcool - síndrome [estado] de abstinência
+F105,Transtornos mentais e comportamentais devidos ao uso de álcool - transtorno psicótico
+F108,Transtornos mentais e comportamentais devidos ao uso de álcool - outros transtornos mentais ou comportamentais
+F109,Transtornos mentais e comportamentais devidos ao uso de álcool - transtorno mental ou comportamental não especificado
+F110,Transtornos mentais e comportamentais devidos ao uso de opiáceos - intoxicação aguda
+F120,Transtornos mentais e comportamentais devidos ao uso de canabinóides - intoxicação aguda
+F122,Transtornos mentais e comportamentais devidos ao uso de canabinóides - síndrome de dependência
+F130,Transtornos mentais e comportamentais devidos ao uso de sedativos e hipnóticos - intoxicação aguda
+F140,Transtornos mentais e comportamentais devidos ao uso da cocaína - intoxicação aguda
+F141,Transtornos mentais e comportamentais devidos ao uso da cocaína - uso nocivo para a saúde
+F142,Transtornos mentais e comportamentais devidos ao uso da cocaína - síndrome de dependência
+F148,Transtornos mentais e comportamentais devidos ao uso da cocaína - outros transtornos mentais ou comportamentais
+F149,Transtornos mentais e comportamentais devidos ao uso da cocaína - transtorno mental ou comportamental não especificado
+F150,"Transtornos mentais e comportamentais devidos ao uso de outros estimulantes, inclusive a cafeína - intoxicação aguda"
+F169,Transtornos mentais e comportamentais devidos ao uso de alucinógenos - transtorno mental ou comportamental não especificado
+F190,Transtornos mentais e comportamentais devidos ao uso de múltiplas drogas e ao uso de outras substâncias psicoativas - intoxicação aguda
+F191,Transtornos mentais e comportamentais devidos ao uso de múltiplas drogas e ao uso de outras substâncias psicoativas - uso nocivo para a saúde
+F192,Transtornos mentais e comportamentais devidos ao uso de múltiplas drogas e ao uso de outras substâncias psicoativas - síndrome de dependência
+F195,Transtornos mentais e comportamentais devidos ao uso de múltiplas drogas e ao uso de outras substâncias psicoativas - transtorno psicótico
+F198,Transtornos mentais e comportamentais devidos ao uso de múltiplas drogas e ao uso de outras substâncias psicoativas - outros transtornos mentais ou comportamentais
+F199,Transtornos mentais e comportamentais devidos ao uso de múltiplas drogas e ao uso de outras substâncias psicoativas - transtorno mental ou comportamental não especificado
+F200,Esquizofrenia paranóide
+F201,Esquizofrenia hebefrênica
+F203,Esquizofrenia indiferenciada
+F205,Esquizofrenia residual
+F206,Esquizofrenia simples
+F208,Outras esquizofrenias
+F209,Esquizofrenia não especificada
+F220,Transtorno delirante
+F230,"Transtorno psicótico agudo polimorfo, sem sintomas esquizofrênicos"
+F231,"Transtorno psicótico agudo polimorfo, com sintomas esquizofrênicos"
+F238,Outros transtornos psicóticos agudos e transitórios
+F239,Transtorno psicótico agudo e transitório não especificado
+F250,Transtorno esquizoafetivo do tipo maníaco
+F258,Outros transtornos esquizoafetivos
+F29,Psicose não-orgânica não especificada
+F310,"Transtorno afetivo bipolar, episódio atual hipomaníaco"
+F311,"Transtorno afetivo bipolar, episódio atual maníaco sem sintomas psicóticos"
+F312,"Transtorno afetivo bipolar, episódio atual maníaco com sintomas psicóticos"
+F314,"Transtorno afetivo bipolar, episódio atual depressivo grave sem sintomas psicóticos"
+F315,"Transtorno afetivo bipolar, episódio atual depressivo grave com sintomas psicóticos"
+F316,"Transtorno afetivo bipolar, episódio atual misto"
+F317,"Transtorno afetivo bipolar, atualmente em remissão"
+F318,Outros transtornos afetivos bipolares
+F319,Transtorno afetivo bipolar não especificado
+F320,Episódio depressivo leve
+F321,Episódio depressivo moderado
+F322,Episódio depressivo grave sem sintomas psicóticos
+F323,Episódio depressivo grave com sintomas psicóticos
+F328,Outros episódios depressivos
+F329,Episódio depressivo não especificado
+F330,"Transtorno depressivo recorrente, episódio atual leve"
+F332,"Transtorno depressivo recorrente, episódio atual grave sem sintomas psicóticos"
+F333,"Transtorno depressivo recorrente, episódio atual grave com sintomas psicóticos"
+F338,Outros transtornos depressivos recorrentes
+F339,Transtorno depressivo recorrente sem especificação
+F411,Ansiedade generalizada
+F500,Anorexia nervosa
+F603,Transtorno de personalidade com instabilidade emocional
+F608,Outros transtornos específicos da personalidade
+F609,Transtorno não especificado da personalidade
+F621,Modificação duradoura da personalidade após doença psiquiátrica
+F640,Transexualismo
+F701,"Retardo mental leve - comprometimento significativo do comportamento, requerendo vigilância ou tratamento"
+F708,Retardo mental leve - outros comprometimentos do comportamento
+F710,Retardo mental moderado - menção de ausência de ou de comprometimento mínimo do comportamento
+F711,"Retardo mental moderado - comprometimento significativo do comportamento, requerendo vigilância ou tratamento"
+F718,Retardo mental moderado - outros comprometimentos do comportamento
+F720,Retardo mental grave - menção de ausência de ou de comprometimento mínimo do comportamento
+F721,"Retardo mental grave - comprometimento significativo do comportamento, requerendo vigilância ou tratamento"
+F728,Retardo mental grave - outros comprometimentos do comportamento
+F731,"Retardo mental profundo - comprometimento significativo do comportamento, requerendo vigilância ou tratamento"
+F840,Autismo infantil
+F913,Distúrbio desafiador e de oposição
+F918,Outros transtornos de conduta
+F919,Transtorno de conduta não especificado
+G009,Meningite bacteriana não especificada
+G048,"Outras encefalites, mielites e encefalomielites"
+G049,"Encefalite, mielite e encefalomielite não especificada"
+G060,Abscesso e granuloma intracranianos
+G09,Seqüelas de doenças inflamatórias do sistema nervoso central
+G10,Doença de Huntington
+G120,Atrofia muscular espinal infantil tipo I [Werdnig-Hoffman]
+G122,Doença do neurônio motor
+G20,Doença de Parkinson
+G308,Outras formas de doença de Alzheimer
+G309,Doença de Alzheimer não especificada
+G310,Atrofia cerebral circunscrita
+G318,Outras doenças degenerativas especificadas do sistema nervoso
+G319,"Doença degenerativa do sistema nervoso, não especificada"
+G328,Outros transtornos degenerativos especificados do sistema nervoso em doenças classificadas em outra parte
+G35,Esclerose múltipla
+G360,Neuromielite óptica [doença de Devic]
+G400,Epilepsia e síndromes epilépticas idiopáticas definidas por sua localização (focal) (parcial) com crises de início focal
+G401,Epilepsia e síndromes epilépticas sintomáticas definidas por sua localização (focal) (parcial) com crises parciais simples
+G402,Epilepsia e síndromes epilépticas sintomáticas definidas por sua localização (focal) (parcial) com crises parciais complexas
+G404,Outras epilepsias e síndromes epilépticas generalizadas
+G405,Síndromes epilépticas especiais
+G406,"Crise de grande mal, não especificada (com ou sem pequeno mal)"
+G408,Outras epilepsias
+G409,"Epilepsia, não especificada"
+G418,Outros estados de mal epiléptico
+G419,"Estado de mal epiléptico, não especificado"
+G432,Estado de mal enxaquecoso
+G433,Enxaqueca complicada
+G439,"Enxaqueca, sem especificação"
+G441,"Cefaléia vascular, não classificada em outra parte"
+G448,Outras síndromes de cefaléia especificadas
+G450,Síndrome da artéria vértebro-basilar
+G451,Síndrome da artéria carotídea (hemisférica)
+G458,Outros acidentes isquêmicos cerebrais transitórios e síndromes correlatas
+G459,Isquemia cerebral transitória não especificada
+G468,Outras síndromes vasculares cerebrais em doenças cerebrovasculares
+G470,Distúrbios do início e da manutenção do sono [insônias]
+G473,Apnéia de sono
+G478,Outros distúrbios do sono
+G479,"Distúrbio do sono, não especificado"
+G500,Nevralgia do trigêmeo
+G509,Transtorno não especificado do nervo trigêmeo
+G510,Paralisia de Bell
+G518,Outros transtornos do nervo facial
+G540,Transtornos do plexo braquial
+G550,Compressões das raízes e dos plexos nervosos em doenças neoplásicas
+G560,Síndrome do túnel do carpo
+G589,Mononeuropatia não especificada
+G610,Síndrome de Guillain-Barré
+G618,Outras polineuropatias inflamatórias
+G619,Polineuropatia inflamatória não especificada
+G628,Outras polineuropatias especificadas
+G636,Polineuropatia em outros transtornos osteomusculares
+G638,Polineuropatia em outras doenças classificadas em outra parte
+G700,Miastenia gravis
+G710,Distrofia muscular
+G712,Miopatias congênitas
+G724,Miopatia inflamatória não classificada em outra parte
+G800,Paralisia cerebral quadriplágica espástica
+G801,Paralisia cerebral diplégica espástica
+G804,Paralisia cerebral atáxica
+G808,Outras formas de paralisia cerebral
+G809,Paralisia cerebral não especificada
+G811,Hemiplegia espástica
+G819,Hemiplegia não especificada
+G820,Paraplegia flácida
+G821,Paraplegia espástica
+G824,Tetraplegia espástica
+G825,Tetraplegia não especificada
+G910,Hidrocefalia comunicante
+G911,Hidrocefalia obstrutiva
+G912,Hidrocefalia de pressão normal
+G913,Hidrocefalia pós-traumática não especificada
+G918,Outras formas de hidrocefalia
+G919,Hidrocefalia não especificada
+G92,Encefalopatia tóxica
+G932,Hipertensão intracraniana benigna
+G934,Encefalopatia não especificada
+G935,Compressão do encéfalo
+G936,Edema cerebral
+G941,Hidrocefalia em doenças neoplásicas
+G952,Compressão não especificada de medula espinal
+G960,Fístula liquórica
+G978,Outros transtornos pós-procedimento do sistema nervoso
+G979,"Transtorno pós-procedimento do sistema nervoso, não especificado"
+H001,Calázio
+H020,Entrópio e triquíase da pálpebra
+H021,Ectrópio da pálpebra
+H023,Blefarocalásia
+H024,Ptose da pálpebra
+H025,Outros transtornos que afetam a função da pálpebra
+H026,Xantelasma da pálpebra
+H028,Outros transtornos especificados das pálpebras
+H029,Transtorno não especificado da pálpebra
+H044,Inflamação crônica dos canais lacrimais
+H045,Estenose e insuficiência dos canais lacrimais
+H048,Outros transtornos do aparelho lacrimal
+H050,Inflamação aguda da órbita
+H058,Outros transtornos da órbita
+H062,Exoftalmo distireoídeo
+H119,Transtorno não especificado da conjuntiva
+H158,Outros transtornos da esclerótica
+H160,Úlcera de córnea
+H170,Leucoma aderente
+H171,Outra opacidade central da córnea
+H180,Pigmentações e depósitos da córnea
+H181,Ceratopatia bolhosa
+H186,Ceratocone
+H187,Outras deformidades da córnea
+H188,Outros transtornos especificados da córnea
+H189,Transtorno não especificado da córnea
+H218,Outros transtornos especificados da íris e do corpo ciliar
+H228,Outros transtornos da íris e do corpo ciliar em doenças classificadas em outra parte
+H250,Catarata senil incipiente
+H251,Catarata senil nuclear
+H252,Catarata senil tipo Morgagni
+H258,Outras cataratas senis
+H259,Catarata senil não especificada
+H260,"Catarata infantil, juvenil e pré-senil"
+H262,Catarata complicada
+H264,Pós-catarata
+H268,Outras cataratas especificadas
+H269,Catarata não especificada
+H270,Afacia
+H278,Outros transtornos especificados do cristalino
+H330,Descolamento da retina com defeito retiniano
+H332,Descolamento seroso da retina
+H333,Defeitos da retina sem descolamento
+H334,Descolamento da retina por tração
+H335,Outros descolamentos da retina
+H353,Degeneração da mácula e do pólo posterior
+H360,Retinopatia diabética
+H401,Glaucoma primário de ângulo aberto
+H402,Glaucoma primário de ângulo fechado
+H408,Outro glaucoma
+H409,Glaucoma não especificado
+H430,Prolapso do humor vítreo
+H431,Hemorragia do humor vítreo
+H433,Outras opacidades do vítreo
+H438,Outros transtornos do humor vítreo
+H440,Endoftalmite purulenta
+H441,Outras endoftalmites
+H445,Afecções degenerativas do globo ocular
+H448,Outros transtornos do globo ocular
+H449,Transtorno não especificado do globo ocular
+H46,Neurite óptica
+H500,Estrabismo convergente concomitante
+H501,Estrabismo divergente concomitante
+H502,Estrabismo vertical
+H504,Outras heterotropias e as não especificadas
+H505,Heteroforia
+H508,Outros estrabismos especificados
+H509,Estrabismo não especificado
+H522,Astigmatismo
+H579,Transtorno não especificado do olho e anexos
+H590,Ceropatia (bolhosa afácica) subseqüente a cirurgia de catarata
+H611,Transtornos não-infecciosos do pavilhão da orelha
+H650,Otite média aguda serosa
+H652,Otite média serosa crônica
+H660,Otite média aguda supurativa
+H669,Otite média não especificada
+H700,Mastoidite aguda
+H701,Mastoidite crônica
+H708,Outras mastoidites e afecções relacionadas com a mastoidite
+H720,Perfuração central da membrana do tímpano
+H728,Outras perfurações da membrana do tímpano
+H729,Perfuração não especificada da membrana do tímpano
+H739,Transtorno não especificado da membrana do tímpano
+H748,Outros transtornos especificados do ouvido médio e da mastóide
+H838,Outros transtornos especificados do ouvido interno
+H900,Perda de audição bilateral devida a transtorno de condução
+H903,Perda de audição bilateral neuro-sensorial
+H919,Perda não especificada de audição
+I011,Endocardite reumática aguda
+I050,Estenose mitral
+I051,Insuficiência mitral reumática
+I052,Estenose mitral com insuficiência
+I058,Outras doenças da valva mitral
+I060,Estenose aórtica reumática
+I080,Transtornos de valvas mitral e aórtica
+I083,"Transtornos das valvas mitral, aórtica e tricúspide"
+I10,Hipertensão essencial (primária)
+I110,Doença cardíaca hipertensiva com insuficiência cardíaca (congestiva)
+I119,Doença cardíaca hipertensiva sem insuficiência cardíaca (congestiva)
+I120,Doença renal hipertensiva com insuficiência renal
+I158,Outras formas de hipertensão secundária
+I159,"Hipertensão secundária, não especificada"
+I200,Angina instável
+I208,Outras formas de angina pectoris
+I209,"Angina pectoris, não especificada"
+I210,Infarto agudo transmural da parede anterior do miocárdio
+I211,Infarto agudo transmural da parede inferior do miocárdio
+I212,Infarto agudo transmural do miocárdio de outras localizações
+I213,"Infarto agudo transmural do miocárdio, de localização não especificada"
+I214,Infarto agudo subendocárdico do miocárdio
+I219,Infarto agudo do miocárdio não especificado
+I220,Infarto do miocárdio recorrente da parede anterior
+I228,Infarto do miocárdio recorrente de outras localizações
+I229,Infarto do miocárdio recorrente de localização não especificada
+I238,Outras complicações atuais subseqüentes ao infarto agudo do miocárdio
+I240,Trombose coronária que não resulta em infarto do miocárdio
+I248,Outras formas de doença isquêmica aguda do coração
+I249,Doença isquêmica aguda do coração não especificada
+I250,"Doença cardiovascular aterosclerótica, descrita desta maneira"
+I251,Doença aterosclerótica do coração
+I252,Infarto antigo do miocárdio
+I253,Aneurisma cardíaco
+I255,Miocardiopatia isquêmica
+I258,Outras formas de doença isquêmica crônica do coração
+I259,Doença isquêmica crônica do coração não especificada
+I260,Embolia pulmonar com menção de cor pulmonale agudo
+I269,Embolia pulmonar sem menção de cor pulmonale agudo
+I270,Hipertensão pulmonar primária
+I313,Derrame pericárdico (não-inflamatório)
+I330,Endocardite infecciosa aguda e subaguda
+I339,Endocardite aguda não especificada
+I340,Insuficiência (da valva) mitral
+I341,Prolapso (da valva) mitral
+I350,Estenose (da valva) aórtica
+I351,Insuficiência (da valva) aórtica
+I352,Estenose (da valva) aórtica com insuficiência
+I370,Estenose da valva pulmonar
+I420,Cardiomiopatia dilatada
+I421,Cardiomiopatia obstrutiva hipertrófica
+I422,Outras cardiomiopatias hipertróficas
+I428,Outras cardiomiopatias
+I429,Cardiomiopatia não especificada
+I440,Bloqueio atrioventricular de primeiro grau
+I441,Bloqueio atrioventricular de segundo grau
+I442,Bloqueio atrioventricular total
+I443,Outras formas de bloqueio atrioventricular e as não especificadas
+I456,Síndrome de pré-excitação
+I458,Outros transtornos especificados da condução
+I460,Parada cardíaca com ressuscitação bem sucedida
+I461,"Morte súbita (de origem) cardíaca, descrita desta forma"
+I469,Parada cardíaca não especificada
+I470,Arritmia ventricular por reentrada
+I471,Taquicardia supraventricular
+I472,Taquicardia ventricular
+I479,Taquicardia paroxística não especificada
+I48,Flutter e fibrilação atrial
+I490,Flutter e fibrilação ventricular
+I495,Síndrome do nó sinusal
+I498,Outras arritmias cardíacas especificadas
+I499,Arritmia cardíaca não especificada
+I500,Insuficiência cardíaca congestiva
+I501,Insuficiência ventricular esquerda
+I509,Insuficiência cardíaca não especificada
+I516,Doença cardiovascular não especificada
+I517,Cardiomegalia
+I600,Hemorragia subaracnóide proveniente do sifão e da bifurcação da carótida
+I602,Hemorragia subaracnóide proveniente da artéria comunicante anterior
+I606,Hemorragia subaracnóide proveniente de outras artérias intracranianas
+I607,Hemorragia subaracnóide proveniente de artéria intracraniana não especificada
+I608,Outras hemorragias subaracnóides
+I609,Hemorragia subaracnóide não especificada
+I610,Hemorragia intracerebral hemisférica subcortical
+I611,Hemorragia intracerebral hemisférica cortical
+I615,Hemorragia intracerebral intraventricular
+I618,Outras hemorragias intracerebrais
+I619,Hemorragia intracerebral não especificada
+I620,Hemorragia subdural (aguda) (não-traumática)
+I629,Hemorragia intracraniana (não-traumática) não especificada
+I630,Infarto cerebral devido a trombose de artérias pré-cerebrais
+I632,Infarto cerebral devido a oclusão ou estenose não especificadas de artérias pré-cerebrais
+I633,Infarto cerebral devido a trombose de artérias cerebrais
+I634,Infarto cerebral devido a embolia de artérias cerebrais
+I635,Infarto cerebral devido a oclusão ou estenose não especificadas de artérias cerebrais
+I638,Outros infartos cerebrais
+I639,Infarto cerebral não especificado
+I64,"Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico"
+I652,Oclusão e estenose da artéria carótida
+I671,Aneurisma cerebral não-roto
+I674,Encefalopatia hipertensiva
+I691,Seqüelas de hemorragia intracerebral
+I693,Seqüelas de infarto cerebral
+I694,Seqüelas de acidente vascular cerebral não especificado como hemorrágico ou isquêmico
+I701,Aterosclerose da artéria renal
+I702,Aterosclerose das artérias das extremidades
+I708,Aterosclerose de outras artérias
+I709,Aterosclerose generalizada e a não especificada
+I710,Aneurisma dissecante da aorta [qualquer porção]
+I712,"Aneurisma da aorta torácica, sem menção de ruptura"
+I713,"Aneurisma da aorta abdominal, roto"
+I714,"Aneurisma da aorta abdominal, sem menção de ruptura"
+I716,"Aneurisma da aorta toráco-abdominal, sem menção de ruptura"
+I719,"Aneurisma aórtico de localização não especificada, sem menção de ruptura"
+I723,Aneurisma de artéria ilíaca
+I730,Síndrome de Raynaud
+I738,Outras doenças vasculares periféricas especificadas
+I739,Doenças vasculares periféricas não especificada
+I742,Embolia e trombose de artérias dos membros superiores
+I743,Embolia e trombose de artérias dos membros inferiores
+I744,Embolia e trombose de artérias dos membros não especificadas
+I745,Embolia e trombose da artéria ilíaca
+I749,Embolia e trombose de artéria não especificada
+I770,Fístula arteriovenosa adquirida
+I771,Estenose de artéria
+I792,Angiopatia periférica em doenças classificadas em outra parte
+I800,Flebite e tromboflebite dos vasos superficiais dos membros inferiores
+I801,Flebite e tromboflebite da veia femural
+I802,Flebite e tromboflebite de outros vasos profundos dos membros inferiores
+I803,"Flebite e tromboflebite dos membros inferiores, não especificada"
+I808,Flebite e tromboflebite de outras localizações
+I809,Flebite e tromboflebite de localização não especificada
+I828,Embolia e trombose de outras veias especificadas
+I829,Embolia e trombose venosas de veia não especificada
+I830,Varizes dos membros inferiores com úlcera
+I831,Varizes dos membros inferiores com inflamação
+I832,Varizes dos membros inferiores com úlcera e inflamação
+I839,Varizes dos membros inferiores sem úlcera ou inflamação
+I840,Hemorróidas internas trombosadas
+I841,Hemorróidas internas com outras complicações
+I842,Hemorróidas internas sem complicações
+I844,Hemorróidas externas com outras complicações
+I845,Hemorróidas externas sem complicação
+I846,Plicomas hemorroidários residuais
+I847,"Hemorróidas trombosadas, não especificadas"
+I848,Hemorróidas não especificadas com outras complicações
+I849,"Hemorróidas sem complicações, não especificadas"
+I861,Varizes escrotais
+I862,Varizes pélvicas
+I871,Compressão venosa
+I872,Insuficiência venosa (crônica) (periférica)
+I878,Outros transtornos venosos especificados
+I880,Linfadenite mesentérica não específica
+I889,Linfadenite não especificada
+I899,"Transtornos não-infecciosos dos vasos linfáticos e dos gânglios linfáticos, não especificados"
+J039,Amigdalite aguda não especificada
+J040,Laringite aguda
+J042,Laringotraqueíte aguda
+J068,Outras infecções agudas das vias aéreas superiores de localizações múltiplas
+J069,Infecção aguda das vias aéreas superiores não especificada
+J100,Influenza com pneumonia devida a outro vírus da influenza [gripe] identificado
+J110,"Influenza [gripe] com pneumonia, devida a vírus não identificado"
+J121,Pneumonia devida a vírus respiratório sincicial
+J128,Outras pneumonias virais
+J129,Pneumonia viral não especificada
+J150,Pneumonia devida à Klebsiella pneumoniae
+J152,Pneumonia devida a Staphylococcus
+J154,Pneumonia devida a outros estreptococos
+J158,Outras pneumonias bacterianas
+J159,Pneumonia bacteriana não especificada
+J168,Pneumonia devida a outros microorganismos infecciosos especificados
+J170,Pneumonia em doenças bacterianas classificadas em outra parte
+J178,Pneumonia em outras doenças classificadas em outra parte
+J180,Broncopneumonia não especificada
+J181,Pneumonia lobar não especificada
+J188,Outras pneumonias devidas a microorganismos não especificados
+J189,Pneumonia não especificada
+J208,Bronquite aguda devida a outros microorganismos especificados
+J209,Bronquite aguda não especificada
+J210,Bronquiolite aguda devida a vírus sincicial respiratório
+J218,Bronquiolite aguda devida a outros microorganismos especificados
+J219,Bronquite aguda não especificada
+J320,Sinusite maxilar crônica
+J323,Sinusite esfenoidal crônica
+J324,Pansinusite crônica
+J328,Outras sinusites crônicas
+J329,Sinusite crônica não especificada
+J330,Pólipo da cavidade nasal
+J340,"Abscesso, furúnculo e antraz do nariz"
+J342,Desvio do septo nasal
+J343,Hipertrofia dos cornetos nasais
+J348,Outros transtornos especificados do nariz e dos seios paranasais
+J350,Amigdalite crônica
+J351,Hipertrofia das amígdalas
+J352,Hipertrofia das adenóides
+J353,Hipertrofia das amígdalas com hipertrofia das adenóides
+J358,Outras doenças crônicas das amígdalas e das adenóides
+J359,Doenças das amígdalas e das adenóides não especificadas
+J36,Abscesso periamigdaliano
+J380,Paralisia das cordas vocais e da laringe
+J381,Pólipo das cordas vocais e da laringe
+J390,Abscesso retrofaríngeo e parafaríngeo
+J391,Outros abscessos da faringe
+J40,Bronquite não especificada como aguda ou crônica
+J410,Bronquite crônica simples
+J42,Bronquite crônica não especificada
+J430,Síndrome de MacLeod
+J431,Enfisema panlobular
+J440,Doença pulmonar obstrutiva crônica com infecção respiratória aguda do trato respiratório inferior
+J441,Doença pulmonar obstrutiva crônica com exacerbação aguda não especificada
+J448,Outras formas especificadas de doença pulmonar obstrutiva crônica
+J449,Doença pulmonar obstrutiva crônica não especificada
+J450,Asma predominantemente alérgica
+J458,Asma mista
+J459,Asma não especificada
+J46,Estado de mal asmático
+J47,Bronquectasia
+J690,Pneumonite devida a alimento ou vômito
+J80,Síndrome do desconforto respiratório do adulto
+J81,"Edema pulmonar, não especificado de outra forma"
+J841,Outras doenças pulmonares intersticiais com fibrose
+J849,Doença pulmonar intersticial não especificadas
+J869,Piotórax sem fístula
+J90,Derrame pleural não classificado em outra parte
+J91,Derrame pleural em afecções classificadas em outra parte
+J930,"Pneumotórax de tensão, espontâneo"
+J931,Outras formas de pneumotórax espontâneo
+J938,"Outros tipos de pneumotórax, especificados"
+J939,Pneumotórax não especificado
+J942,Hemotórax
+J950,Mau funcionamento de traqueostomia
+J955,Estenose subglótica pós-procedimento
+J958,Outros transtornos respiratórios pós-procedimentos
+J960,Insuficiência respiratória aguda
+J961,Insuficiência respiratória crônica
+J969,Insuficiência respiratória não especificada
+J980,Outras doenças dos brônquios não classificadas em outra parte
+J984,Outros transtornos pulmonares
+J988,Outros transtornos respiratórios especificados
+J989,Transtorno respiratório não especificados
+J998,Transtornos respiratórios em outras doenças classificadas em outra parte
+K010,Dentes inclusos
+K020,Cáries limitadas ao esmalte
+K021,Cáries da dentina
+K028,Outras cáries dentárias
+K047,Abscesso periapical sem fístula
+K048,Cisto radicular
+K056,"Doença periodontal, sem outra especificação"
+K069,Transtorno da gengiva e do rebordo alveolar sem dentes sem outra especificação
+K071,Anomalias da relação entre a mandíbula com a base do crânio
+K072,Anomalias da relação entre as arcadas dentárias
+K090,Cistos odontogênicos de desenvolvimento
+K102,Afecções inflamatórias dos maxilares
+K108,Outras doenças especificadas dos maxilares
+K118,Outras doenças das glândulas salivares
+K122,Celulite e abscesso da boca
+K137,Outras lesões e as não especificadas da mucosa oral
+K20,Esofagite
+K210,Doença de refluxo gastroesofágico com esofagite
+K219,Doença de refluxo gastroesofágico sem esofagite
+K220,Acalásia do cárdia
+K222,Obstrução do esôfago
+K224,Discinesia do esôfago
+K229,"Doença do esôfago, sem outra especificação"
+K231,Megaesôfago na doença de Chagas
+K250,Úlcera gástrica - aguda com hemorragia
+K251,Úlcera gástrica - aguda com perfuração
+K259,"Úlcera gástrica - não especificada como aguda ou crônica, sem hemorragia ou perfuração"
+K291,Outras gastrites agudas
+K293,Gastrite superficial crônica
+K296,Outras gastrites
+K297,Gastrite não especificada
+K299,"Gastroduodenite, sem outra especificação"
+K30,Dispepsia
+K310,Dilatação aguda do estômago
+K318,Outras doenças especificadas do estômago e do duodeno
+K319,"Doenças do estômago e do duodeno, sem outra especificação"
+K350,Apendicite aguda com peritonite generalizada
+K351,Apendicite aguda com abscesso peritonial
+K359,Apendicite aguda sem outra especificação
+K36,Outras formas de apendicite
+K37,"Apendicite, sem outras especificações"
+K388,Outras doenças especificadas do apêndice
+K389,"Doença do apêndice, sem outra especificação"
+K400,"Hérnia inguinal bilateral, com obstrução, sem gangrena"
+K401,"Hérnia inguinal bilateral, com gangrena"
+K402,"Hérnia inguinal bilateral, sem obstrução ou gangrena"
+K403,"Hérnia inguinal unilateral ou não especificada, com obstrução sem gangrena"
+K404,"Hérnia inguinal unilateral ou não especificada, com gangrena"
+K409,"Hérnia inguinal unilateral ou não especificada, sem obstrução ou gangrena"
+K411,"Hérnia femoral bilateral, com gangrena"
+K419,"Hérnia femoral unilateral ou não especificada, sem obstrução ou gangrena"
+K420,"Hérnia umbilical com obstrução, sem gangrena"
+K421,Hérnia umbilical com gangrena
+K429,Hérnia umbilical sem obstrução ou gangrena
+K430,"Hérnia ventral com obstrução, sem gangrena"
+K431,Hérnia ventral com gangrena
+K439,Hérnia ventral sem obstrução ou gangrena
+K458,"Outras hérnias abdominais especificadas, sem obstrução ou gangrena"
+K460,"Hérnia abdominal não especificada, com obstrução, sem gangrena"
+K461,Hérnia abdominal não especificada com gangrena
+K469,"Hérnia abdominal não especificada, sem obstrução ou gangrena"
+K500,Doença de Crohn do intestino delgado
+K501,Doença de Crohn do intestino grosso
+K509,Doença de Crohn de localização não especificada
+K510,Enterocolite ulcerativa (crônica)
+K519,"Colite ulcerativa, sem outra especificação"
+K522,Gastroenterite e colite alérgicas ou ligadas à dieta
+K529,"Gastroenterite e colite não-infecciosas, não especificadas"
+K550,Transtornos vasculares agudos do intestino
+K560,Íleo paralítico
+K562,Volvo
+K564,Outras obstruções do intestino
+K565,Aderências intestinais (bridas) com obstrução
+K566,"Outras formas de obstrução intestinal, e as não especificadas"
+K571,Doença diverticular do intestino delgado sem perfuração ou abscesso
+K572,Doença diverticular do intestino grosso com perfuração e abscesso
+K573,Doença diverticular do intestino grosso sem perfuração ou abscesso
+K578,"Doença diverticular do intestino, de localização não especificada, com perfuração e abscesso"
+K579,"Doença diverticular do intestino, de localização não especificada, sem perfuração ou abscesso"
+K590,Constipação
+K591,Diarréia funcional
+K598,Outros transtornos funcionais especificados do intestino
+K599,"Transtorno intestinal funcional, não especificado"
+K600,Fissura anal aguda
+K601,Fissura anal crônica
+K603,Fístula anal
+K605,Fístula anorretal
+K610,Abscesso anal
+K612,Abscesso anorretal
+K620,Pólipo anal
+K623,Prolapso retal
+K625,Hemorragia do ânus e do reto
+K630,Abscesso do intestino
+K631,Perfuração do intestino (não-traumática)
+K632,Fístula do intestino
+K635,Pólipo do cólon
+K638,Outras doenças especificadas do intestino
+K639,"Doença do intestino, sem outra especificação"
+K650,Peritonite aguda
+K658,Outras peritonites
+K659,"Peritonite, sem outras especificações"
+K660,Aderências peritoniais
+K668,Outras afecções especificadas do peritônio
+K703,Cirrose hepática alcoólica
+K704,Insuficiência hepática alcoólica
+K720,Insuficiência hepática aguda e subaguda
+K721,Insuficiência hepática crônica
+K729,"Insuficiência hepática, sem outras especificações"
+K740,Fibrose hepática
+K746,Outras formas de cirrose hepática e as não especificadas
+K750,Abscesso hepático
+K754,Hepatite autoimune
+K766,Hipertensão portal
+K768,Outras doenças especificadas do fígado
+K769,"Doença hepática, sem outra especificação"
+K800,Calculose da vesícula biliar com colicistite aguda
+K801,Calculose da vesícula biliar com outras formas de colecistite
+K802,Calculose da vesícula biliar sem colecistite
+K803,Calculose de via biliar com colangite
+K804,Calculose de via biliar com colecistite
+K805,Calculose de via biliar sem colangite ou colecistite
+K808,Outras colelitíases
+K810,Colecistite aguda
+K811,Colecistite crônica
+K818,Outras colecistites
+K819,"Colecistite, sem outra especificação"
+K828,Outras doenças especificadas da vesícula biliar
+K829,"Doença da vesícula biliar, sem outra especificação"
+K830,Colangite
+K831,Obstrução de via biliar
+K835,Cisto biliar
+K838,Outras doenças especificadas das vias biliares
+K839,"Doença das vias biliares, sem outra especificação"
+K850,Pancreatite aguda idiopática
+K851,Pancreatite aguda biliar
+K852,Pancreatite aguda induzida por álcool
+K858,Outras pancreatites agudas
+K859,"Pancreatite aguda, não especificada"
+K861,Outras pancreatites crônicas
+K868,Outras doenças especificadas do pâncreas
+K869,"Doença do pâncreas, sem outra especificação"
+K870,Transtornos da vesícula biliar e das vias biliares em doenças classificadas em outra parte
+K871,Transtornos do pâncreas em doenças classificadas em outra parte
+K900,Doença celíaca
+K902,Síndrome da alça cega não classificada em outra parte
+K908,Outras formas de má-absorção intestinal
+K912,Má-absorção pós-cirúrgica não classificada em outra parte
+K918,"Outros transtornos do aparelho digestivo, pós-cirúrgicos, não classificados em outra parte"
+K919,Transtorno do aparelho digestivo pós procedimento
+K920,Hematêmese
+K921,Melena
+K922,"Hemorragia gastrointestinal, sem outra especificação"
+K928,Outras doenças especificadas do aparelho digestivo
+K929,"Doença do aparelho digestivo, sem outra especificação"
+K938,Transtornos de outros órgãos digestivos especificados em doenças classificadas em outra parte
+L020,"Abscesso cutâneo, furúnculo e antraz da face"
+L021,"Abscesso cutâneo, furúnculo e antraz do pescoço"
+L022,"Abscesso cutâneo, furúnculo e antraz do tronco"
+L024,"Abscesso cutâneo, furúnculo e antraz do(s) membro(s)"
+L028,"Abscesso cutâneo, furúnculo e antraz de outras localizações"
+L029,"Abscesso cutâneo, furúnculo e antraz de localização não especificada"
+L030,Celulite de dedos das mãos e dos pés
+L031,Celulite de outras partes do(s) membro(s)
+L032,Celulite da face
+L033,Celulite do tronco
+L038,Celulite de outros locais
+L039,Celulite não especificada
+L050,Cisto pilonidal com abscesso
+L059,Cisto pilonidal sem abscesso
+L080,Piodermite
+L088,"Outras infecções localizadas, especificadas, da pele e do tecido subcutâneo"
+L089,"Infecção localizada da pele e do tecido subcutâneo, não especificada"
+L100,Pênfigo vulgar
+L102,Pênfigo foliáceo
+L123,Epidermólise bolhosa adquirida
+L209,"Dermatite atópica, não especificada"
+L500,Urticária alérgica
+L508,Outras urticárias
+L570,Ceratose actínica
+L600,Unha encravada
+L720,Cisto epidérmico
+L721,Cisto triquilemal
+L728,Outras formas de cistos foliculares da pele e do tecido subcutâneo
+L729,"Cisto folicular, não especificado da pele e do tecido subcutâneo"
+L819,"Transtorno da pigmentação, não especificado"
+L82,Ceratose seborréica
+L89,Úlcera de decúbito
+L900,Líquen escleroso e atrófico
+L905,Cicatrizes e fibrose cutânea
+L908,Outras afecções atróficas da pele
+L909,"Afecções atróficas da pele, não especificadas"
+L910,Cicatriz quelóide
+L918,Outras afecções hipertróficas da pele
+L919,"Afecções hipertróficas da pele, não especificadas"
+L928,Outras afecções granulomatosas da pele e do tecido subcutâneo
+L932,Outras formas de lúpus eritematoso localizado
+L940,Esclerodermia localizada [morféia]
+L948,"Outras afecções localizadas do tecido conjuntivo, especificadas"
+L949,"Afecções localizadas do tecido conjuntivo, não especificadas"
+L97,Úlcera dos membros inferiores não classificada em outra parte
+L980,Granuloma piogênico
+L984,"Úlcera crônica da pele, não classificada em outra parte"
+L986,Outras afecções infiltrativas da pele e do tecido subcutâneo
+L988,Outras afecções especificadas da pele e do tecido subcutâneo
+L989,"Afecções da pele e do tecido subcutâneo, não especificados"
+L998,Outras afecções especificadas da pele e do tecido subcutâneo em doenças classificadas em outra parte
+M000,Artrite e pioliartrite estafilocócicas
+M002,Outras artrites e poliartrites estreptocócicas
+M009,"Artrite piogênica, não especificada"
+M028,Outras artropatias reacionais
+M058,Outras artrites reumatóides soro-positivas
+M059,Artrite reumatóide soro-positiva não especificada
+M064,Poliartropatia inflamatória
+M069,Artrite reumatóide não especificada
+M128,Outras artropatias específicas não classificadas em outra parte
+M160,Coxartrose primária bilateral
+M161,Outras coxartroses primárias
+M167,Outras coxartroses secundárias
+M169,Coxartrose não especificada
+M170,Gonartrose primária bilateral
+M171,Outras gonartroses primárias
+M179,Gonartrose não especificada
+M190,Artrose primária de outras articulações
+M191,Artrose pós-traumática de outras articulações
+M199,Artrose não especificada
+M200,Deformidade(s) do(s) dedo(s) das mãos
+M201,Hallux valgo (adquirido)
+M202,Hallux rigidus
+M214,Pé chato [pé plano] (adquirido)
+M219,Deformidade adquirida não especificada de membro
+M230,Menisco cístico
+M231,Menisco discóide (congênito)
+M232,Transtorno do menisco devido à ruptura ou lesão antiga
+M233,Outros transtornos do menisco
+M235,Instabilidade crônica do joelho
+M236,Outras rupturas espontâneas de ligamento(s) do joelho
+M238,Outros transtornos internos do joelho
+M242,Transtornos de ligamentos
+M244,Deslocamento e subluxação de articulação recidivantes
+M245,Contratura articular
+M255,Dor articular
+M258,Outros transtornos articulares especificados
+M259,Transtorno articular não especificado
+M311,Microangiopatia trombótica
+M313,Granulomatose de Wegener
+M318,Outras vasculopatias necrotizantes especificadas
+M321,Lúpus eritematoso disseminado [sistêmico] com comprometimento de outros órgãos e sistemas
+M328,Outras formas de lúpus eritematoso disseminado [sistêmico]
+M329,Lúpus eritematoso disseminado [sistêmico] não especificado
+M330,Dermatomiosite juvenil
+M331,Outras dermatomiosites
+M332,Polimiosite
+M339,Dermatopolimiosite não especificada
+M340,Esclerose sistêmica progressiva
+M350,Síndrome seca [Sjögren]
+M411,Escoliose idiopática juvenil
+M414,Escoliose neuromuscular
+M419,Escoliose não especificada
+M464,Discite não especificada
+M480,Estenose da coluna vertebral
+M500,Transtorno do disco cervical com mielopatia
+M501,Transtorno do disco cervical com radiculopatia
+M508,Outros transtornos de discos cervicais
+M510,Transtornos de discos lombares e de outros discos intervertebrais com mielopatia
+M511,Transtornos de discos lombares e de outros discos intervertebrais com radiculopatia
+M512,Outros deslocamentos discais intervertebrais especificados
+M513,Outra degeneração especificada de disco intervertebral
+M518,Outros transtornos especificados de discos intervertebrais
+M519,Transtorno não especificado de disco intervertebral
+M541,Radiculopatia
+M542,Cervicalgia
+M543,Ciática
+M544,Lumbago com ciática
+M545,Dor lombar baixa
+M546,Dor na coluna torácica
+M629,Transtorno muscular não especificado
+M653,Dedo em gatilho
+M658,Outras sinovites e tenossinovites
+M659,Sinovite e tenossinovite não especificadas
+M660,Ruptura de cisto poplíteo
+M661,Ruptura de sinóvia
+M664,Ruptura espontânea de outros tendões
+M665,Ruptura espontânea de tendões não especificados
+M679,Transtorno não especificado da sinóvia e do tendão
+M713,Outros cistos de bolsa sinovial
+M720,Fibromatose de fáscia palmar [Dupuytren]
+M751,Síndrome do manguito rotador
+M758,Outras lesões do ombro
+M796,Dor em membro
+M797,Fibromialgia
+M809,Osteoporose não especificada com fratura patológica
+M810,Osteoporose pós-menopáusica
+M819,Osteoporose não especificada
+M840,Defeito de consolidação da fratura
+M841,Ausência de consolidação da fratura [pseudo-artrose]
+M844,Fratura patológica não classificada em outra parte
+M860,Osteomielite aguda hematogênica
+M861,Outra osteomielite aguda
+M864,Osteomielite crônica com seio drenante
+M866,Outra osteomielite crônica
+M869,Osteomielite não especificada
+M879,Osteonecrose não especificada
+M898,Outros transtornos especificados do osso
+M938,"Outras osteocondropatias, especificadas"
+M949,Transtornos não especificados da cartilagem
+M950,Deformidade adquirida do nariz
+M958,Outras deformidades adquiridas especificadas do sistema osteomuscular
+M966,"Fratura de osso subsequente a implante ortopédico, prótese articular ou placa óssea"
+M968,Outros transtornos osteomusculares pós-procedimentos
+M995,Estenose de disco intervertebral do canal medular
+M999,Lesão biomecânica não especificada
+N000,Síndrome nefrítica aguda - anormalidade glomerular minor
+N040,Síndrome nefrótica - anormalidade glomerular minor
+N041,Síndrome nefrótica - lesões glomerulares focais e segmentares
+N048,Síndrome nefrótica - outras
+N049,Síndrome nefrótica - não especificada
+N085,Transtornos glomerulares em doenças sistêmicas do tecido conjuntivo
+N10,Nefrite túbulo-intersticial aguda
+N110,Pielonefrite não-obstrutiva crônica associada a refluxo
+N111,Pielonefrite obstrutiva crônica
+N119,Nefrite túbulo-intersticial crônica não especificada
+N12,Nefrite túbulo-intersticial não especificada se aguda ou crônica
+N130,Hidronefrose com obstrução da junção uretero-pélvica
+N131,Hidronefrose com estreitamento de ureter não classificada em outra parte
+N132,Hidronefrose com obstrução por calculose renal e ureteral
+N133,Outras hidronefroses e as não especificadas
+N136,Pionefrose
+N138,Outras uropatias obstrutivas e por refluxo
+N151,Abscesso renal e perinefrético
+N164,Transtornos renais túbulo-intersticiais em doenças do tecido conjuntivo
+N165,Transtornos renais túbulo-intersticiais em rejeição a transplantes
+N170,Insuficiência renal aguda com necrose tubular
+N178,Outro tipo de insuficiência renal aguda
+N179,Insuficiência renal aguda não especificada
+N180,Doença renal em estádio final
+N188,Outra insuficiência renal crônica
+N189,Insuficiência renal crônica não especificada
+N200,Calculose do rim
+N201,Calculose do ureter
+N202,Calculose do rim com cálculo do ureter
+N209,"Calculose urinária, não especificada"
+N210,Calculose na bexiga
+N211,Cálculo uretral
+N218,Outros cálculos do trato urinário inferior
+N219,"Cálculo do trato urinário inferior, porção não especificada"
+N220,Cálculo urinário na esquistossomose [bilharziose] [schistosomíase]
+N23,Cólica nefrética não especificada
+N288,Outros transtornos especificados do rim e do ureter
+N300,Cistite aguda
+N302,Outras cistites crônicas
+N309,"Cistite, não especificada"
+N310,Bexiga neuropática não-inibida não classificada em outra parte
+N318,Outra disfunção neuromuscular da bexiga
+N319,Disfunção neuromuscular não especificada da bexiga
+N328,Outros transtornos especificados da bexiga
+N329,Transtorno não especificado da bexiga
+N350,Estenose uretral pós-traumática
+N358,Outra estenose (estreitamento) uretral
+N359,Estenose (estreitamento) uretral não especificada(o)
+N369,Transtorno não especificado da uretra
+N370,Uretrite em doenças classificadas em outra parte
+N390,Infecção do trato urinário de localização não especificada
+N394,Outras incontinências urinárias especificadas
+N398,Outros transtornos especificados do aparelho urinário
+N399,Transtornos não especificados do aparelho urinário
+N40,Hiperplasia da próstata
+N428,Outras afecções especificadas da próstata
+N429,Afecção não especificada da próstata
+N430,Hidrocele encistada
+N432,Outra hidrocele
+N433,Hidrocele não especificada
+N44,Torção do testículo
+N450,"Orquite, epididimite e epidídimo-orquite, com menção de abscesso"
+N459,"Orquite, epididimite e epidídimo-orquite, sem menção de abscesso"
+N46,Infertilidade masculina
+N47,"Hipertrofia do prepúcio, fimose e parafimose"
+N483,Priapismo
+N484,Impotência de origem orgânica
+N488,Outros transtornos especificados do pênis
+N508,Outros transtornos especificados dos órgãos genitais masculinos
+N61,Transtornos inflamatórios da mama
+N62,Hipertrofia da mama
+N63,Nódulo mamário não especificado
+N648,Outros transtornos especificados da mama
+N649,Transtorno da mama não especificado
+N700,Salpingite e ooforite agudas
+N709,Salpingite e ooforite não especificadas
+N736,Aderências pelviperitonais femininas
+N738,Outras doenças inflamatórias especificadas da pelve feminina
+N739,Doença inflamatória não especificada da pelve feminina
+N750,Cisto da glândula de Bartholin
+N751,Abscesso da glândula de Bartholin
+N758,Outras doenças da glândula de Bartholin
+N759,Doença não especificada da glândula de Bartholin
+N768,Outras inflamações especificadas da vagina e da vulva
+N800,Endometriose do útero
+N801,Endometriose do ovário
+N805,Endometriose do intestino
+N808,Outra endometriose
+N809,Endometriose não especificada
+N810,Uretrocele feminina
+N811,Cistocele
+N812,Prolapso uterovaginal incompleto
+N813,Prolapso uterovaginal completo
+N814,Prolapso uterovaginal não especificado
+N816,Retocele
+N818,Outro prolapso genital feminino
+N819,Prolapso genital feminino não especificado
+N820,Fístula vesicovaginal
+N832,Outros cistos ovarianos e os não especificados
+N836,Hematossalpinge
+N838,"Outros transtornos não-inflamatórios do ovário, da trompa de Falópio e do ligamento largo"
+N839,"Transtornos não-inflamatórios do ovário, da trompa de Falópio e do ligamento largo, não especificados"
+N840,Pólipo do corpo do útero
+N841,Pólipo do colo do útero
+N848,Pólipo de outras partes do trato genital feminino
+N849,Pólipo do trato genital feminino não especificado
+N850,Hiperplasia glandular endometrial
+N851,Hiperplasia adenomatosa endometrial
+N852,Hipertrofia do útero
+N858,Outros transtornos não-inflamatórios especificados do útero
+N859,"Transtornos não-inflamatórios do útero, não especificados"
+N870,Displasia cervical leve
+N871,Displasia cervical moderada
+N872,"Displasia cervical grave, não classificada em outra parte"
+N879,"Displasia do colo do útero, não especificada"
+N883,Incompetência do colo do útero
+N888,Outros transtornos não-inflamatórios especificados do colo do útero
+N905,Atrofia da vulva
+N906,Hipertrofia da vulva
+N907,Cisto vulvar
+N908,Outros transtornos não-inflamatórios especificados da vulva e do períneo
+N920,Menstruação excessiva e freqüente com ciclo regular
+N921,Menstruação excessiva e freqüente com ciclo irregular
+N926,"Menstruação irregular, não especificada"
+N938,Outros sangramentos anormais especificados do útero e da vagina
+N939,"Sangramento anormal do útero ou da vagina, não especificado"
+N949,Afecções não especificadas associadas com os órgãos genitais femininos e com o ciclo menstrual
+N950,Sangramento pós-menopausa
+N979,Infertilidade feminina não especificada
+O000,Gravidez abdominal
+O001,Gravidez tubária
+O008,Outras formas de gravidez ectópica
+O009,"Gravidez ectópica, não especificada"
+O010,Mola hidatiforme clássica
+O019,Mola hidatiforme não especificada
+O021,Aborto retido
+O031,"Aborto espontâneo - incompleto, complicado por hemorragia excessiva ou tardia"
+O033,"Aborto espontâneo - incompleto, com outras complicações ou com complicações não especificadas"
+O034,"Aborto espontâneo - incompleto, sem complicações"
+O039,"Aborto espontâneo - completo ou não especificado, sem complicações"
+O048,"Aborto por razões médicas e legais - completo ou não especificado, com outras complicações ou com complicações não especificadas"
+O049,"Aborto por razões médicas e legais - completo ou não especificado, sem complicações"
+O053,"Outros tipos de aborto - incompleto, com outras complicações ou com complicações não especificadas"
+O054,"Outros tipos de aborto - incompleto, sem complicações"
+O060,"Aborto não especificado - incompleto, complicado por infecção do trato genital ou dos órgãos pélvicos"
+O064,"Aborto não especificado - incompleto, sem complicações"
+O068,"Aborto não especificado - completo ou não especificado, com outras complicações ou com complicações não especificadas"
+O069,"Aborto não especificado - completo ou não especificado, sem complicações"
+O100,"Hipertensão essencial pré-existente complicando a gravidez, o parto e o puerpério"
+O101,"Doença cardíaca hipertensiva pré-existente complicando a gravidez, o parto e o puerpério"
+O104,"Hipertensão secundária pré-existente complicando a gravidez, o parto e o puerpério"
+O109,"Hipertensão pré-existente não especificada, complicando a gravidez, o parto e o puerpério"
+O11,Distúrbio hipertensivo pré-existente com proteinúria superposta
+O13,Hipertensão gestacional [induzida pela gravidez] sem proteinúria significativa
+O140,Pré-eclâmpsia moderada
+O141,Pré-eclâmpsia grave
+O149,Pré-eclâmpsia não especificada
+O150,Eclâmpsia na gravidez
+O159,Eclâmpsia não especificada quanto ao período
+O16,Hipertensão materna não especificada
+O200,Ameaça de aborto
+O208,Outras hemorragias do início da gravidez
+O209,"Hemorragia do início da gravidez, não especificada"
+O210,Hiperêmese gravídica leve
+O211,Hiperêmese gravídica com distúrbio metabólico
+O219,"Vômitos da gravidez, não especificados"
+O230,Infecções do rim na gravidez
+O231,Infecções da bexiga na gravidez
+O233,Infecções de outras partes do trato urinário na gravidez
+O234,Infecção não especificada do trato urinário na gravidez
+O235,Infecções do trato genital na gravidez
+O239,Outras infecções e as não especificadas do trato urinário na gravidez
+O240,"Diabetes mellitus pré-existente, insulino-dependente"
+O241,"Diabetes mellitus pré-existente, não-insulino-dependente"
+O243,"Diabetes mellitus pré-existente, não especificado"
+O244,Diabetes mellitus que surge durante a gravidez
+O249,"Diabetes mellitus na gravidez, não especificado"
+O268,"Outras afecções especificadas, ligadas a gravidez"
+O269,"Afecções ligadas a gravidez, não especificadas"
+O300,Gravidez dupla
+O309,"Gestação múltipla, não especificada"
+O320,Assistência prestada à mãe por posição fetal instável
+O321,Assistência prestada à mãe por apresentação pélvica
+O322,Assistência prestada à mãe por posição fetal transversa e oblíqua
+O324,Assistência prestada à mãe por polo cefálico alto em gestação a termo
+O328,Assistência prestada à mãe por outras formas de apresentação anormal do feto
+O330,Assistência prestada à mãe por uma desproporção devida à deformidade da pelve óssea materna
+O334,"Assistência prestada à mãe por uma desproporção de origem mista, materna e fetal"
+O335,Assistência prestada à mãe por uma desproporção devida a feto excepcionalmente grande
+O338,Assistência prestada à mãe por uma desproporção de outra origem
+O339,"Assistência prestada à mãe por uma desproporção, não especificada"
+O342,Assistência prestada à mãe por cicatriz uterina devida a uma cirurgia anterior
+O343,Assistência prestada à mãe por incompetência cervical
+O344,Assistência prestada à mãe por outras anormalidades do colo do útero
+O359,"Assistência prestada à mãe por lesão ou anormalidade fetais (suspeitadas), não especificadas"
+O360,Assistência prestada à mãe por isoimunização Rh
+O363,Assistência prestada à mãe por sinais de hipóxia fetal
+O364,Assistência prestada à mãe por morte intra-uterina
+O365,Assistência prestada à mãe por insuficiência de crescimento fetal
+O366,Assistência prestada à mãe por crescimento fetal excessivo
+O368,Assistência prestada à mãe por outros problemas fetais especificados
+O369,Assistência prestada à mãe por problema fetal não especificado
+O410,Oligohidrâmnio
+O418,Outros transtornos especificados do líquido amniótico e das membranas
+O419,Transtornos do líquido amniótico e das membranas não especificados
+O420,"Ruptura prematura de membranas, com início do trabalho de parto dentro de 24 horas"
+O421,"Ruptura prematura de membranas, com início do trabalho de parto depois das primeiras 24 horas"
+O422,"Ruptura prematura de membranas, com trabalho de parto retardado por terapêutica"
+O429,"Ruptura prematura de membranas, não especificada"
+O430,Síndromes de transfusão placentária
+O441,Placenta prévia com hemorragia
+O458,Outro descolamento prematuro da placenta
+O459,"Descolamento prematuro da placenta, não especificado"
+O470,Falso trabalho de parto antes de se completarem 37 semanas de gestação
+O471,Falso trabalho de parto na 37ª semana completa ou depois dela
+O479,"Falso trabalho de parto, não especificado"
+O48,Gravidez prolongada
+O600,Trabalho de parto pré-termo sem parto
+O601,Trabalho de parto pré-termo com parto pré-termo
+O602,Trabalho de parto pré-termo com parto a termo
+O610,Falha na indução médica do trabalho de parto
+O618,Outras formas de falha na indução do trabalho de parto
+O619,"Falha na indução do trabalho de parto, não especificada"
+O620,Contrações iniciais inadequadas
+O621,Inércia uterina secundária
+O622,Outras formas de inércia uterina
+O623,Trabalho de parto precipitado
+O624,"Contrações uterinas hipertônicas, incoordenadas ou prolongadas"
+O628,Outras anormalidades da contração uterina
+O629,"Anormalidades da contração uterina, não especificadas"
+O630,Prolongamento do primeiro período (dilatação)
+O631,Prolongamento do segundo período (expulsão)
+O639,"Trabalho de parto prolongado, não especificado"
+O640,Obstrução do trabalho de parto devida à rotação incompleta do polo cefálico fetal
+O641,Obstrução do trabalho de parto devida à apresentação pélvica
+O649,"Obstrução do trabalho de parto devida a má-posição ou má-apresentação, não especificadas"
+O654,"Obstrução do trabalho de parto devida a desproporção feto-pélvica, não especificada"
+O658,Obstrução do trabalho de parto devida a outras anormalidades pélvicas maternas
+O659,Obstrução do trabalho de parto devida a anormalidades pélvicas maternas não especificadas
+O660,Obstrução do trabalho de parto devido a distócia de ombro
+O662,Obstrução do trabalho de parto por feto excepcionalmente grande
+O664,"Falha de tentativa de trabalho de parto, não especificada"
+O668,"Outras formas de obstrução do trabalho de parto, especificadas"
+O669,"Obstrução do trabalho de parto, não especificado"
+O680,Trabalho de parto e parto complicados por anormalidade da freqüência cardíaca fetal
+O681,Trabalho de parto e parto complicados por mecônio no líquido amniótico
+O682,Trabalho de parto e parto complicados por anormalidade na freqüência cardíaca fetal com mecônio no líquido amniótico
+O688,Trabalho de parto e parto complicados por outras evidências de sofrimento fetal
+O689,"Trabalho de parto e parto complicados por sofrimento fetal, não especificado"
+O691,"Trabalho de parto e parto complicados por circular de cordão, com compressão"
+O700,Laceração de períneo de primeiro grau durante o parto
+O701,Laceração de períneo de segundo grau durante o parto
+O702,Laceração de períneo de terceiro grau durante o parto
+O709,"Laceração de períneo durante o parto, não especificada"
+O710,Ruptura do útero antes do início do trabalho de parto
+O711,Ruptura do útero durante o trabalho de parto
+O715,Outras lesões obstétricas aos órgãos pélvicos
+O721,Outras hemorragias do pós-parto imediato
+O730,Retenção da placenta sem hemorragia
+O731,"Retenção de partes da placenta ou das membranas, sem hemorragia"
+O750,Sofrimento materno durante o trabalho de parto e o parto
+O754,Outras complicações de procedimentos ou de cirurgia obstétrica
+O756,Demora do parto após ruptura espontânea ou não especificada das membranas
+O759,"Complicações do trabalho de parto e do parto, não especificadas"
+O800,Parto espontâneo cefálico
+O801,Parto espontâneo pélvico
+O808,Outros tipos de parto único espontâneo
+O809,"Parto único espontâneo, não especificado"
+O810,Parto por fórceps baixo
+O812,Fórceps da cavidade mediana com rotação
+O813,Outros tipos de parto por fórceps e os não especificados
+O814,Parto por vácuo-extrator
+O820,Parto por cesariana eletiva
+O821,Parto por cesariana de emergência
+O828,Outros tipos de parto único por cesariana
+O829,"Parto por cesariana, não especificada"
+O833,Parto de gravidez intra-abdominal com feto viável
+O842,"Parto múltiplo, todos por cesariana"
+O85,Infecção puerperal
+O860,Infecção da incisão cirúrgica de origem obstétrica
+O908,"Outras complicações do puerpério, não classificadas em outra parte"
+O909,Complicação do puerpério não especificada
+O981,"Sífilis complicando a gravidez, o parto e o puerpério"
+O990,"Anemia complicando a gravidez, o parto e o puerpério"
+O991,"Outras doenças do sangue e dos órgãos hematopoéticos e alguns transtornos que comprometem o sistema imunológico, complicando a gravidez, o parto e o puerpério"
+O992,"Doenças endócrinas, nutricionais e metabólicas complicando a gravidez, o parto e o puerpério"
+O993,"Transtornos mentais e doenças do sistema nervoso complicando a gravidez, o parto e o puerpério"
+O994,"Doenças do aparelho circulatório complicando a gravidez, o parto e o puerpério"
+O996,"Doenças do aparelho digestivo complicando a gravidez, o parto e o puerpério"
+O998,"Outras doenças e afecções especificadas complicando a gravidez, o parto e o puerpério"
+P000,Feto e recém-nascido afetados por transtornos maternos hipertensivos
+P002,Feto e recém-nascido afetados por doenças infecciosas e parasitárias da mãe
+P008,Feto e recém-nascido afetados por outras afecções maternas
+P009,Feto e recém-nascido afetados por afecção materna não especificada
+P030,Feto e recém-nascido afetados por parto e extração pélvicas
+P039,Feto e recém-nascido afetados por complicações não especificadas do trabalho de parto e do parto
+P050,Recém-nascido de baixo peso para a idade gestacional
+P051,Pequeno para a idade gestacional
+P070,Recém-nascido com peso muito baixo
+P071,Outros recém-nascidos de peso baixo
+P072,Imaturidade extrema
+P073,Outros recém-nascidos de pré-termo
+P080,Recém-nascido de tamanho excessivamente grande
+P081,Outros recém-nascidos grandes para a idade gestacional
+P134,Fratura da clavícula devida a traumatismo de parto
+P200,Hipóxia intra-uterina diagnosticada antes do início do trabalho de parto
+P210,Asfixia grave ao nascer
+P211,Asfixia leve ou moderada ao nascer
+P219,"Asfixia ao nascer, não especificada"
+P220,Síndrome da angústia respiratória do recém-nascido
+P221,Taquipnéia transitória do recém-nascido
+P228,Outros desconfortos respiratórios do recém-nascido
+P229,Desconforto respiratório não especificado do recém-nascido
+P285,Insuficiência respiratória do recém-nascido
+P289,"Afecção respiratória do recém-nascido, não especificada"
+P298,Outros transtornos cardiovasculares originados no período perinatal
+P299,Transtornos cardiovasculares não especificados originados no período perinatal
+P350,Síndrome da rubéola congênita
+P351,Infecção congênita por citomegalovirus
+P358,Outras doenças virais congênitas
+P359,Doença viral congênita não especificada
+P361,Septicemia do recém-nascido devida a outros estreptococos e aos não especificados
+P368,Outras septicemias bacterianas do recém-nascido
+P369,Septicemia bacteriana não especificada do recém-nascido
+P371,Toxoplasmose congênita
+P378,Outras doenças infecciosas e parasitárias congênitas especificadas
+P392,Infecção intra-amniótica do feto não classificada em outra parte
+P398,Outras infecções especificadas próprias do período perinatal
+P399,Infecção própria do período perinatal não especificada
+P551,Isoimunização ABO do feto e do recém-nascido
+P559,Doença hemolítica não especificada do feto e do recém-nascido
+P588,Icterícia neonatal devida a outras hemólises excessivas especificadas
+P589,Icterícia neonatal devida a hemólise excessiva não especificada
+P590,Icterícia neonatal associada ao parto prematuro
+P598,Icterícia neonatal devida a outras causas especificadas
+P599,Icterícia neonatal não especificada
+P700,Síndrome do filho de mãe com diabetes gestacional
+P701,Síndrome do filho de mãe diabética
+P704,Outras hipoglicemias neonatais
+P749,Distúrbio metabólico transitório não especificado do recém-nascido
+P920,Vômitos no recém-nascido
+P922,Alimentação vagarosa do recém-nascido
+P925,Dificuldade neonatal na amamentação no peito
+P928,Outros problemas de alimentação do recém-nascido
+P95,Morte fetal de causa não especificada
+P968,Outras afecções especificadas originadas no período perinatal
+P969,Afecções originadas no período perinatal não especificadas
+Q038,Outra hidrocefalia congênita
+Q059,Espinha bífida não especificada
+Q103,Outras malformações congênitas das pálpebras
+Q120,Catarata congênita
+Q150,Glaucoma congênito
+Q170,Pavilhão supranumerário
+Q173,Outras deformidades da orelha
+Q175,Orelhas proeminentes
+Q178,Outras malformações congênitas especificadas da orelha
+Q180,"Seio, fístula e cisto de origem branquial"
+Q181,"Seio, fístula e cisto pré-auricular"
+Q200,Tronco arterial comum
+Q201,Ventrículo direito com dupla via de saída
+Q204,Ventrículo com dupla via de entrada
+Q210,Comunicação interventricular
+Q211,Comunicação interatrial
+Q212,Comunicação atrioventricular
+Q213,Tetralogia de Fallot
+Q219,Malformação congênita não especificada de septo cardíaco
+Q220,Atresia da valva pulmonar
+Q221,Estenose congênita da valva pulmonar
+Q224,Estenose congênita da valva tricúspide
+Q225,Anomalia de Ebstein
+Q228,Outras malformações congênitas da valva tricúspide
+Q230,Estenose congênita da valva aórtica
+Q233,Insuficiência mitral congênita
+Q234,Síndrome do coração esquerdo hipoplásico
+Q249,Malformação não especificada do coração
+Q250,Permeabilidade do canal arterial
+Q251,Coartação da aorta
+Q254,Outras malformações congênitas da aorta
+Q255,Atresia da artéria pulmonar
+Q256,Estenose da artéria pulmonar
+Q257,Outras malformações congênitas da artéria pulmonar
+Q258,Outras malformações congênitas das grandes artérias
+Q259,Malformação congênita não especificada das grandes artérias
+Q280,Malformação arteriovenosa de vasos pré-cerebrais
+Q282,Malformação arteriovenosa dos vasos cerebrais
+Q289,Malformação congênita não especificada do aparelho circulatório
+Q308,Outras malformações congênitas do nariz
+Q309,Malformação congênita não especificada do nariz
+Q353,Fenda do palato mole
+Q355,Fenda do palato duro com fenda do palato mole
+Q359,Fenda palatina não especificada
+Q360,Fenda labial bilateral
+Q369,Fenda labial unilateral
+Q370,Fenda do palato duro com fenda labial bilateral
+Q371,Fenda do palato duro com fenda labial unilateral
+Q374,Fenda dos palatos duro e mole com fenda labial bilateral
+Q375,Fenda dos palatos duro e mole com fenda labial unilateral
+Q378,"Fenda do palato com fenda labial bilateral, não especificada"
+Q379,"Fenda do palato com fenda labial unilateral, não especificada"
+Q381,Anquiloglossia
+Q385,Malformações congênitas do palato não classificadas em outra parte
+Q390,"Atresia de esôfago, sem fístula"
+Q391,"Atresia de esôfago, com fístula traqueoesofágica"
+Q431,Doença de Hirschsprung
+Q442,Atresia das vias biliares
+Q525,Fusão dos lábios vulvares
+Q530,Testículo ectópico
+Q531,"Testículo não-descido, unilateral"
+Q532,"Testículo não-descido, bilateral"
+Q539,"Testículo não-descido, não especificado"
+Q540,Hipospádia balânica
+Q549,Hipospádia não especificada
+Q556,Outras malformações congênitas do pênis
+Q623,Outras anomalias obstrutivas da pelve renal e do ureter
+Q641,Extrofia vesical
+Q650,Luxação congênita unilateral do quadril
+Q660,Pé torto eqüinovaro
+Q668,Outras deformidades congênitas do pé
+Q669,Deformidade congênita não especificada do pé
+Q670,Assimetria facial
+Q676,Tórax escavado
+Q688,Outras deformidades osteomusculares congênitas
+Q690,Dedo(s) da mão supranumerário(s)
+Q699,Polidactilia não especificada
+Q748,Outras malformações congênitas especificadas de membro(s)
+Q749,Malformações congênitas não especificadas de membro(s)
+Q750,Craniossinostose
+Q758,Outras malformações congênitas especificadas dos ossos do crânio e da face
+Q759,Malformação congênita não especificada dos ossos do crânio e da face
+Q780,Osteogênese imperfeita
+Q790,Hérnia diafragmática congênita
+Q831,Mama supranumerária
+Q833,Mamilo acessório
+Q870,Síndromes com malformações congênitas afetando predominantemente o aspecto da face
+Q892,Malformações congênitas de outras glândulas endócrinas
+Q899,Malformações congênitas não especificadas
+R001,Bradicardia não especificada
+R011,"Sopro cardíaco, não especificado"
+R02,Gangrena não classificada em outra parte
+R040,Epistaxis
+R042,Hemoptise
+R05,Tosse
+R060,Dispnéia
+R072,Dor precordial
+R073,Outra dor torácica
+R074,"Dor torácica, não especificada"
+R100,Abdome agudo
+R101,Dor localizada no abdome superior
+R102,Dor pélvica e perineal
+R103,Dor localizada em outras partes do abdome inferior
+R104,Outras dores abdominais e as não especificadas
+R11,Náusea e vômitos
+R13,Disfagia
+R17,Icterícia não especificada
+R18,Ascite
+R190,"Massa, tumoração ou tumefação intra-abdominal e pélvica"
+R194,Alteração do hábito intestinal
+R220,"Tumefação, massa ou tumoração localizadas da cabeça"
+R223,"Tumefação, massa ou tumoração localizadas de membro superior"
+R224,"Tumefação, massa ou tumoração localizadas no membro inferior"
+R229,"Tumefação, massa ou tumoração não especificadas, localizadas"
+R262,Dificuldade para andar não classificada em outra parte
+R300,Disúria
+R31,Hematúria não especificada
+R32,Incontinência urinária não especificada
+R33,Retenção urinária
+R398,Outros sintomas e sinais relativos ao aparelho urinário e os não especificados
+R410,Desorientação não especificada
+R418,Outros sintomas e sinais especificados relativos às funções cognitivas e à consciência
+R509,Febre não especificada
+R51,Cefaléia
+R520,Dor aguda
+R521,Dor crônica intratável
+R522,Outra dor crônica
+R529,Dor não especificada
+R53,"Mal estar, fadiga"
+R55,Síncope e colapso
+R560,Convulsões febris
+R568,Outras convulsões e as não especificadas
+R570,Choque cardiogênico
+R571,Choque hipovolêmico
+R579,Choque não especificado
+R599,"Adenomegalia ou aumento de volume dos gânglios linfáticos, não especificado"
+R610,Hiperidrose localizada
+R634,Perda de peso anormal
+R64,Caquexia
+R688,Outros sintomas e sinais gerais especificados
+R69,Causas desconhecidas e não especificadas de morbidade
+R832,"Achados anormais no líquido cefalorraquidiano - nível anormal de outras drogas, medicamentos e substâncias biológicas"
+R892,"Achados anormais de material proveniente de outros órgãos, aparelhos, sistemas e tecidos - nível anormal de outras drogas, medicamentos e substâncias biológicas"
+R900,Lesão intracraniana ocupando espaço
+R908,Outros resultados anormais de exames para diagnóstico por imagem do sistema nervoso central
+R91,"Achados anormais, de exames para diagnóstico por imagem, do pulmão"
+R99,Outras causas mal definidas e as não especificadas de mortalidade
+S009,"Traumatismo superficial da cabeça, parte não especificada"
+S011,Ferimento da pálpebra e da região periocular
+S013,Ferimento do ouvido
+S015,Ferimento do lábio e da cavidade oral
+S018,"Ferimento na cabeça, de outras localizações"
+S021,Fratura da base do crânio
+S022,Fratura dos ossos nasais
+S023,Fratura do assoalho orbital
+S024,Fratura dos ossos malares e maxilares
+S026,Fratura de mandíbula
+S027,Fraturas múltiplas envolvendo os ossos do crânio e da face
+S028,Outras fraturas do crânio e dos ossos da face
+S029,"Fratura do crânio ou dos ossos da face, parte não especificada"
+S052,Laceração e ruptura ocular com prolapso ou perda de tecido intra-ocular
+S056,Ferimento penetrante do globo ocular sem corpo estranho
+S059,"Traumatismo do olho e da órbita, não especificado"
+S060,Concussão cerebral
+S061,Edema cerebral traumático
+S062,Traumatismo cerebral difuso
+S063,Traumatismo cerebral focal
+S064,Hemorragia epidural
+S065,Hemorragia subdural devida a traumatismo
+S066,Hemorragia subaracnóide devida a traumatismo
+S068,Outros traumatismos intracranianos
+S069,"Traumatismo intracraniano, não especificado"
+S098,Outros traumatismos especificados da cabeça
+S099,Traumatismo não especificado da cabeça
+S122,Fratura de outras vértebras cervicais especificadas
+S143,Traumatismo do plexo braquial
+S220,Fratura de vértebra torácica
+S221,Fraturas múltiplas da coluna torácica
+S270,Pneumotórax traumático
+S271,Hemotórax traumático
+S272,Hemopneumotórax traumático
+S315,Ferimento de outros órgãos genitais externos e os não especificados
+S320,Fratura de vértebra lombar
+S324,Fratura do acetábulo
+S327,Fraturas múltiplas de coluna lombar e da pelve
+S328,Fratura de outras partes da coluna lombossacra e da pelve e de partes não especificadas
+S334,Ruptura traumática da sínfise púbica
+S360,Traumatismo do baço
+S364,Traumatismo do intestino delgado
+S420,Fratura da clavícula
+S422,Fratura da extremidade superior do úmero
+S423,Fratura da diáfise do úmero
+S424,Fratura da extremidade inferior do úmero
+S427,"Fraturas múltiplas da clavícula, da omoplata [escápula] e do úmero"
+S429,"Fratura da cintura escapular, parte não especificada"
+S430,Luxação da articulação do ombro
+S431,Luxação da articulação acromioclavicular
+S460,Traumatismo do tendão do manguito rotador do ombro
+S520,Fratura da extremidade superior do cúbito [ulna]
+S521,Fratura da extremidade superior do rádio
+S522,Fratura da diáfise do cúbito [ulna]
+S523,Fratura da diáfise do rádio
+S524,Fratura das diáfises do rádio e do cúbito [ulna]
+S525,Fratura da extremidade distal do rádio
+S526,Fratura da extremidade distal do rádio e do cúbito [ulna]
+S527,Fraturas múltiplas do antebraço
+S528,Fratura de outras partes do antebraço
+S529,"Fratura do antebraço, parte não especificada"
+S531,"Luxação do cotovelo, não especificada"
+S602,Contusão de outras partes do punho e da mão
+S611,Ferimento de dedo(s) com lesão da unha
+S620,Fratura do osso navicular [escafoíde] da mão
+S622,Fratura do primeiro metacarpiano
+S623,Fratura de outros ossos do metacarpo
+S624,Fraturas múltiplas de ossos metacarpianos
+S625,Fratura do polegar
+S626,Fratura de outros dedos
+S627,Fraturas múltiplas de dedo(s)
+S628,Fratura de outras partes e de partes não especificadas do punho e da mão
+S633,Ruptura traumática de ligamento(s) do punho e do carpo
+S661,Traumatismo do músculo flexor e tendão de outro dedo ao nível do punho e da mão
+S663,Traumatismo do músculo extensor e tendão de outro dedo ao nível do punho e da mão
+S668,Traumatismo de outros músculos e tendões ao nível do punho e da mão
+S669,Traumatismo de músculo e tendão não especificado ao nível do punho e da mão
+S680,Amputação traumática do polegar (completa) (parcial)
+S681,Amputação traumática de um outro dedo apenas (completa) (parcial)
+S718,Ferimentos de outras partes e das não especificadas da cintura pélvica
+S720,Fratura do colo do fêmur
+S721,Fratura pertrocantérica
+S722,Fratura subtrocantérica
+S723,Fratura da diáfise do fêmur
+S724,Fratura da extremidade distal do fêmur
+S727,Fraturas múltiplas do fêmur
+S728,Fraturas de outras partes do fêmur
+S729,"Fratura do fêmur, parte não especificada"
+S730,Luxação da articulação do quadril
+S810,Ferimento do joelho
+S818,Ferimento de outras partes da perna
+S820,Fratura da rótula [patela]
+S821,Fratura da extremidade proximal da tíbia
+S822,Fratura da diáfise da tíbia
+S823,Fratura da extremidade distal da tíbia
+S824,Fratura do perônio [fíbula]
+S825,Fratura do maléolo medial
+S826,Fratura do maléolo lateral
+S827,Fraturas múltiplas da perna
+S828,Fratura de outras partes da perna
+S829,"Fratura da perna, parte não especificada"
+S832,"Ruptura do menisco, atual"
+S834,Entorse e distensão envolvendo ligamento colateral (peronial) (tibial) do joelho
+S835,Entorse e distensão envolvendo ligamento cruzado (anterior) (posterior) do joelho
+S836,Entorse e distensão de outras partes e das não especificadas do joelho
+S837,Traumatismo de estruturas múltiplas do joelho
+S860,Traumatismo do tendão de Aquiles
+S910,Ferimento do tornozelo
+S913,Ferimento de outras partes do pé
+S920,Fratura do calcâneo
+S923,Fratura de ossos do metatarso
+S924,Fratura do hálux
+S929,Fratura do pé não especificada
+S930,Luxação da articulação do tornozelo
+T009,Traumatismos superficiais múltiplos não especificados
+T010,Ferimentos envolvendo a cabeça com o pescoço
+T012,Ferimentos envolvendo regiões múltiplas do(s) membro(s) superior(es)
+T013,Ferimentos envolvendo múltiplas regiões do(s) membro(s) inferior(es)
+T019,Ferimentos múltiplos não especificados
+T020,Fraturas envolvendo cabeça com pescoço
+T021,Fraturas envolvendo tórax com parte inferior do dorso e da pelve
+T022,Fraturas envolvendo regiões múltiplas de um membro superior
+T023,Fraturas envolvendo regiões múltiplas de um membro inferior
+T024,Fraturas envolvendo regiões múltiplas de ambos os membros superiores
+T025,Fraturas envolvendo regiões múltiplas de ambos os membros inferiores
+T028,Fraturas envolvendo outras combinações de regiões do corpo
+T029,Fraturas múltiplas não especificadas
+T039,"Luxações, entorses e distensões múltiplas, não especificadas"
+T068,Outros traumatismos especificados envolvendo regiões múltiplas do corpo
+T07,Traumatismos múltiplos não especificados
+T111,"Ferimento do membro superior, nível não especificado"
+T131,"Ferimento de membro inferior, nível não especificado"
+T140,Traumatismo superficial de região não especificada do corpo
+T141,Ferimento de região não especificada do corpo
+T144,Traumatismo de nervo(s) de região não especificada do corpo
+T149,Traumatismo não especificado
+T16,Corpo estranho no ouvido
+T171,Corpo estranho na narina
+T174,Corpo estranho na traquéia
+T180,Corpo estranho na boca
+T181,Corpo estranho no esôfago
+T182,Corpo estranho no estômago
+T185,Corpo estranho no ânus e reto
+T188,Corpo estranho em outras partes e partes múltiplas do aparelho digestivo
+T189,Corpo estranho em parte não especificada do aparelho digestivo
+T191,Corpo estranho na bexiga
+T203,Queimadura de terceiro grau da cabeça e do pescoço
+T213,Queimadura de terceiro grau do tronco
+T223,"Queimadura de terceiro grau do ombro e do membro superior, exceto punho e mão"
+T233,Queimadura de terceiro grau do punho e da mão
+T243,"Queimadura de terceiro grau do quadril e do membro inferior, exceto tornozelo e do pé"
+T253,Queimadura de terceiro grau do tornozelo e do pé
+T290,"Queimaduras múltiplas, grau não especificado"
+T292,"Queimaduras múltiplas, sem mencionar queimadura(s) ultrapassando o segundo grau"
+T293,"Queimaduras múltiplas, mencionando ao menos uma queimadura de terceiro grau"
+T300,"Queimadura, parte do corpo não especificada, grau não especificado"
+T302,"Queimadura de segundo grau, parte do corpo não especificada"
+T303,"Queimadura de terceiro grau, parte do corpo não especificada"
+T310,Queimaduras envolvendo menos de 10% da superfície corporal
+T311,Queimaduras envolvendo de 10 - 19% da superfície corporal
+T424,Intoxicação por benzodiazepinas
+T439,Intoxicação por droga psicotrópica não especificada
+T455,Intoxicação por anticoagulantes
+T479,Intoxicação por substância não especificada que atua primariamente sobre o aparelho gastrointestinal
+T509,"Intoxicação por outras drogas, medicamentos e substâncias biológicas e as não especificadas"
+T518,Efeito tóxico de outros álcoois
+T630,Efeito tóxico do veneno de serpente
+T632,Efeito tóxico do veneno de escorpião
+T633,Efeito tóxico do veneno de aranha
+T658,Efeito tóxico de outras substâncias especificadas
+T659,Efeito tóxico de substância não especificada
+T742,Abuso sexual
+T758,Outros efeitos especificados de causas externas
+T810,Hemorragia e hematoma complicando procedimento não classificado em outra parte
+T813,Deiscência de ferida cirúrgica não classificada em outra parte
+T814,Infecção subseqüente a procedimento não classificada em outra parte
+T818,Outras complicações de procedimentos não classificadas em outra parte
+T821,Complicação mecânica de dispositivo eletrônico cardíaco
+T828,"Outras complicações de dispositivos protéticos, implantes e enxertos cardíacos e vasculares"
+T829,"Complicações não especificada de dispositivo protético, implante e enxerto cardíacos e vasculares"
+T840,Complicação mecânica de prótese articular interna
+T841,Complicação mecânica de dispositivo de fixação interna de ossos dos membros
+T844,"Complicação mecânica de outros dispositivos, implantes e enxertos ortopédicos internos"
+T845,Infecção e reação inflamatória devidas à prótese articular interna
+T846,Infecção e reação inflamatória devidas a dispositivo de fixação interna [qualquer local]
+T847,"Infecção e reação inflamatória devidas a outros dispositivos protéticos, implantes e enxertos ortopédicos internos"
+T848,"Outras complicações de dispositivos protéticos, implantes e enxertos ortopédicos internos"
+T849,"Complicação não especificada de dispositivo protético, implante e enxerto ortopédicos internos"
+T850,Complicação mecânica de shunt ventricular (comunicação) intracraniano
+T852,Complicação mecânica de lente intraocular
+T858,"Outras complicações de dispositivos protéticos, implantes e enxertos internos não classificados em outra parte"
+T859,"Complicação não especificada de outros dispositivos protéticos, implantes e enxertos internos"
+T860,Rejeição a transplante de medula óssea
+T861,Falência ou rejeição de transplante de rim
+T862,Falência ou rejeição de transplante de coração
+T864,Falência ou rejeição de transplante de fígado
+T868,Outra insuficiência ou rejeição de outros órgãos ou tecidos transplantados
+T869,Falência e rejeição a transplante de órgão ou tecido não especificado
+T874,Infecção de coto da amputação
+T885,Outras complicações de anestesia
+T888,Outras complicações de cuidados médicos e cirúrgicos especificados não classificados em outra parte
+T889,Complicação não especificada de cuidados médicos e cirúrgicos
+T905,Seqüelas de traumatismo intracraniano
+T908,Seqüelas de outros traumatismos especificados da cabeça
+T925,Seqüelas de traumatismo de músculo e tendão do membro superior
+T931,Seqüelas de fratura do fêmur
+T932,Seqüelas de outras fraturas do membro inferior
+T959,"Seqüelas de queimadura, corrosão e geladura de local não especificado"
+T981,Seqüelas em outros efeitos de causas externas e os não especificados
+T983,Seqüelas de complicações dos cuidados médicos e cirúrgicos não classificados em outra parte
+Z000,Exame médico geral
+Z001,Exame de rotina de saúde da criança
+Z005,Exame de doador potencial de órgão e tecido
+Z008,Outros exames gerais
+Z010,Exame dos olhos e da visão
+Z018,Outros exames especiais especificados
+Z019,Exame especial não especificado
+Z031,Observação por suspeita de neoplasia maligna
+Z038,Observação por suspeita de outras doenças e afecções
+Z039,Observação por suspeita de doença ou afecção não especificada
+Z044,Exame e observação após alegação de estupro e sedução
+Z048,Exame e observação por outras razões especificadas
+Z121,Exame especial de rastreamento de neoplasia do trato intestinal
+Z125,Exame especial de rastreamento de neoplasia da próstata
+Z129,Exame especial de rastreamento de neoplasia não especificada
+Z209,Contato com e exposição a doença transmissível não especificada
+Z302,Esterilização
+Z348,Supervisão de outra gravidez normal
+Z349,"Supervisão de gravidez normal, não especificada"
+Z358,Supervisão de outras gravidezes de alto risco
+Z359,Supervisão não especificada de gravidez de alto risco
+Z380,"Criança única, nascida em hospital"
+Z390,Assistência e exame imediatamente após o parto
+Z392,Seguimento pós-parto de rotina
+Z418,Outros procedimentos para outros propósitos exceto cuidados de saúde
+Z421,Seguimento envolvendo cirurgia plástica de mama
+Z429,Seguimento envolvendo cirurgia plástica não especificada
+Z436,Cuidados a outros orifícios artificiais das vias urinárias
+Z470,Seguimento envolvendo remoção de placa de fratura e outros dispositivos de fixação interna
+Z478,Outros seguimentos ortopédicos especificados
+Z488,Outro seguimento cirúrgico especificado
+Z489,Seguimento cirúrgico não especificado
+Z511,Sessão de quimioterapia por neoplasia
+Z518,Outro cuidado médico especificado
+Z519,Cuidado médico não especificado
+Z523,Doador de medula óssea
+Z524,Doador de rim
+Z525,Doador de córnea
+Z526,Doador de fígado
+Z528,Doador de outros órgãos ou tecidos
+Z529,Doador de órgão ou tecido não especificado
+Z530,Procedimento não realizado devido à contra-indicação
+Z532,Procedimento não realizado devido à decisão do paciente por outras razões e as não especificadas
+Z538,Procedimento não realizado por outras razões
+Z539,Procedimento não realizado por razão não especificada
+Z540,Convalescença após cirurgia
+Z609,Problema não especificado relacionado com o meio social
+Z741,Necessidade de assistência com cuidados pessoais
+Z762,Supervisão de cuidado de saúde de outras crianças ou recém-nascidos sadios
+Z763,Pessoa em boa saúde acompanhando pessoa doente
+Z853,História pessoal de neoplasia maligna de mama
+Z931,Gastrostomia
+Z940,Rim transplantado
+Z941,Coração transplantado
+Z942,Pulmão transplantado
+Z944,Fígado transplantado
+Z948,Outros órgãos e tecidos transplantados
+Z988,Outros estados pós-cirúrgicos especificados
+A08,"Infecções intestinais virais, outras e as não especificadas"
+A41,Outras septicemias
+A48,Outras doenças bacterianas não classificadas em outra parte
+A49,Infecção bacteriana de localização não especificada
+A50,Sífilis congênita
+B34,"Doenças por vírus, de localização não especificada"
+C10,Neoplasia maligna da orofaringe
+C15,Neoplasia maligna do esôfago
+C16,Neoplasia maligna do estômago
+C17,Neoplasia maligna do intestino delgado
+C18,Neoplasia maligna do cólon
+C21,Neoplasia maligna do ânus e do canal anal
+C22,Neoplasia maligna do fígado e das vias biliares intra-hepáticas
+C25,Neoplasia maligna do pâncreas
+C32,Neoplasia maligna da laringe
+C34,Neoplasia maligna dos brônquios e dos pulmões
+C40,Neoplasia maligna dos ossos e cartilagens articulares dos membros
+C41,Neoplasia maligna dos ossos e das cartilagens articulares de outras localizações e de localizações não especificadas
+C43,Melanoma maligno da pele
+C44,Outras neoplasias malignas da pele
+C49,Neoplasia maligna do tecido conjuntivo e de outros tecidos moles
+C50,Neoplasia maligna da mama
+C51,Neoplasia maligna da vulva
+C53,Neoplasia maligna do colo do útero
+C54,Neoplasia maligna do corpo do útero
+C60,Neoplasia maligna do pênis
+C62,Neoplasia maligna dos testículos
+C67,Neoplasia maligna da bexiga
+C71,Neoplasia maligna do encéfalo
+C72,"Neoplasia maligna da medula espinhal, dos nervos cranianos e de outras partes do sistema nervoso central"
+C74,Neoplasia maligna da glândula supra-renal [Glândula adrenal]
+C76,Neoplasia maligna de outras localizações e de localizações mal definidas
+C81,Doença de Hodgkin
+C83,Linfoma não-Hodgkin difuso
+C90,Mieloma múltiplo e neoplasias malignas de plasmócitos
+C91,Leucemia linfóide
+C92,Leucemia mielóide
+D16,Neoplasia benigna de osso e de cartilagem articular
+D17,Neoplasia lipomatosa benigna
+D25,Leiomioma do útero
+D33,Neoplasia benigna do encéfalo e de outras partes do sistema nervoso central
+D43,Neoplasia de comportamento incerto ou desconhecido do encéfalo e do sistema nervoso central
+D46,Síndromes mielodisplásicas
+D48,Neoplasia de comportamento incerto ou desconhecido de outras localizações e de localizações não especificadas
+D64,Outras anemias
+E44,Desnutrição protéico-calórica de graus moderado e leve
+E66,Obesidade
+E87,Outros transtornos do equilíbrio hidroeletrolítico e ácido-básico
+F06,Outros transtornos mentais devidos a lesão e disfunção cerebral e a doença física
+F10,Transtornos mentais e comportamentais devidos ao uso de álcool
+F14,Transtornos mentais e comportamentais devidos ao uso da cocaína
+F19,Transtornos mentais e comportamentais devidos ao uso de múltiplas drogas e ao uso de outras substâncias psicoativas
+F20,Esquizofrenia
+F23,Transtornos psicóticos agudos e transitórios
+F31,Transtorno afetivo bipolar
+F32,Episódios depressivos
+F60,Transtornos específicos da personalidade
+F70,Retardo mental leve
+F71,Retardo mental moderado
+F72,Retardo mental grave
+F79,Retardo mental não especificado
+F84,Transtornos globais do desenvolvimento
+G40,Epilepsia
+G54,Transtornos das raízes e dos plexos nervosos
+G82,Paraplegia e tetraplegia
+G91,Hidrocefalia
+H02,Outros transtornos da pálpebra
+H25,Catarata senil
+I21,Infarto agudo do miocárdio
+I24,Outras doenças isquêmicas agudas do coração
+I26,Embolia pulmonar
+I46,Parada cardíaca
+I50,Insuficiência cardíaca
+I60,Hemorragia subaracnóide
+I69,Seqüelas de doenças cerebrovasculares
+I73,Outras doenças vasculares periféricas
+I74,Embolia e trombose arteriais
+I82,Outra embolia e trombose venosas
+I83,Varizes dos membros inferiores
+I84,Hemorróidas
+J11,Influenza [gripe] devida a vírus não identificado
+J15,Pneumonia bacteriana não classificada em outra parte
+J18,Pneumonia por microorganismo não especificada
+J20,Bronquite aguda
+J21,Bronquiolite aguda
+J35,Doenças crônicas das amígdalas e das adenóides
+J44,Outras doenças pulmonares obstrutivas crônicas
+J45,Asma
+J93,Pneumotórax
+J96,Insuficiência respiratória não classificada de outra parte
+K25,Úlcera gástrica
+K29,Gastrite e duodenite
+K35,Apendicite aguda
+K40,Hérnia inguinal
+K42,Hérnia umbilical
+K43,Hérnia ventral
+K50,Doença de Crohn [enterite regional]
+K52,Outras gastroenterites e colites não-infecciosas
+K56,Íleo paralítico e obstrução intestinal sem hérnia
+K57,Doença diverticular do intestino
+K63,Outras doenças do intestino
+K65,Peritonite
+K74,Fibrose e cirrose hepáticas
+K80,Colelitíase
+K81,Colecistite
+K83,Outras doenças das vias biliares
+K87,"Transtornos da vesícula biliar, das vias biliares e do pâncreas em doenças classificadas em outra parte"
+K92,Outras doenças do aparelho digestivo
+L02,"Abscesso cutâneo, furúnculo e antraz"
+L08,Outras infecções localizadas da pele e do tecido subcutâneo
+M60,Miosite
+M86,Osteomielite
+N13,Uropatia obstrutiva e por refluxo
+N17,Insuficiência renal aguda
+N18,Insuficiência renal crônica
+N20,Calculose do rim e do ureter
+N39,Outros transtornos do trato urinário
+N43,Hidrocele e espermatocele
+N64,Outras doenças da mama
+N80,Endometriose
+N81,Prolapso genital feminino
+N84,Pólipo do trato genital feminino
+N87,Displasia do colo do útero
+O03,Aborto espontâneo
+O06,Aborto não especificado
+O14,Hipertensão gestacional [induzida pela gravidez] com proteinúria significativa
+O24,Diabetes mellitus na gravidez
+O41,Outros transtornos das membranas e do líquido amniótico
+O42,Ruptura prematura de membranas
+O45,Descolamento prematuro da placenta [abruptio placentae]
+O68,Trabalho de parto e parto complicados por sofrimento fetal
+O80,Parto único espontâneo
+O82,Parto único por cesariana
+P59,Icterícia neonatal devida a outras causas e às não especificadas
+Q37,Fenda labial com fenda palatina
+R10,Dor abdominal e pélvica
+R50,Febre de origem desconhecida e de outras origens
+R52,Dor não classificada em outra parte
+R56,"Convulsões, não classificadas em outra parte"
+S06,Traumatismo intracraniano
+S09,Outros traumatismos da cabeça e os não especificados
+S32,Fratura da coluna lombar e da pelve
+S42,Fratura do ombro e do braço
+S52,Fratura do antebraço
+S62,Fratura ao nível do punho e da mão
+S66,Traumatismo de músculo e tendão ao nível do punho e da mão
+S72,Fratura do fêmur
+S82,"Fratura da perna, incluindo tornozelo"
+S86,Traumatismos de músculo e de tendão ao nível da perna
+S92,Fratura do pé (exceto do tornozelo)
+T14,Traumatismo de região não especificada do corpo
+T94,Seqüelas de traumatismos envolvendo múltiplas regiões do corpo e as não especificadas
+Z00,Exame geral e investigação de pessoas sem queixas ou diagnóstico relatado
+Z01,Outros exames e investigações especiais de pessoas sem queixa ou diagnóstico relatado
+Z34,Supervisão de gravidez normal
+Z47,Outros cuidados de seguimento ortopédico
+Z98,Outros estados pós-cirúrgicos
