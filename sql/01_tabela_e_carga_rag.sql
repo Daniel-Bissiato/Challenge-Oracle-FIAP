@@ -2,7 +2,7 @@
 -- RAG DO CHATBOT DE SAÚDE -- 01. TABELA E CARGA DOS DOCUMENTOS
 --------------------------------------------------------------------------------
 -- Pré-requisito: credencial COHERE_CRED (ou equivalente) já criada e com ACL
--- para api.cohere.com liberada (ver Aula 07 do curso).
+-- para api.cohere.com liberada.
 --
 -- Os 3.444 documentos de origem (hospitais de SP, CID-10, resumos UF/ano,
 -- resumos mensais de óbitos, conceituais) são gerados pelos scripts em
