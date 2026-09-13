@@ -7,7 +7,7 @@
 **Challenge Oracle — FIAP** · Grupo **Data Forge**
 
 
-**[🔗 Acessar a aplicação (Painel)](http://vitallisdashboard.netlify.app)** . **[🔗 Acessar a aplicação (ChatBot)](https://sparkly-babka-2bba96.netlify.app/)** · **[📊 Notebook da AED]([notebooks/EC_Sprint_3_ChallengeOracle_DataForge_ML.ipynb](https://github.com/Daniel-Bissiato/Challenge-Oracle-FIAP/tree/main/notebooks))** · **[📖 Dicionário de dados](docs/dicionario_de_dados.md)**
+**[🔗 Acessar a aplicação (Painel)](http://vitallisdashboard.netlify.app)** . **[🔗 Acessar a aplicação (ChatBot)](https://sparkly-babka-2bba96.netlify.app/)** · **[📊 Notebook da AED](https://github.com/Daniel-Bissiato/Challenge-Oracle-FIAP/tree/main/notebooks)** · **[📖 Dicionário de dados](docs/dicionario_de_dados.md)**
 
 </div>
 
@@ -176,6 +176,6 @@ Grupo **Data Forge** — FIAP · Vitallis
 |:---|:---:|
 | Daniel Gomes Bissiato | https://www.linkedin.com/in/daniel-bissiato-b13a14344/ |
 | Vinícius Barreto de Oliveira | https://www.linkedin.com/in/vin%C3%ADciusbarreto/ |
-| Vitor Luiz Souza Costa] | https://www.linkedin.com/in/vitor-l-souza-costa-3206b1406/ |
+| Vitor Luiz Souza Costa | https://www.linkedin.com/in/vitor-l-souza-costa-3206b1406/ |
 
 </div>
