@@ -7,7 +7,7 @@
 **Challenge Oracle — FIAP** · Grupo **Data Forge**
 
 
-**[🔗 Acessar a aplicação](INSIRA_AQUI_O_LINK_DA_APLICACAO)** · **[📊 Notebook da AED](notebooks/EC_Sprint_3_ChallengeOracle_DataForge_ML.ipynb)** · **[📖 Dicionário de dados](docs/dicionario_de_dados.md)**
+**[🔗 Acessar a aplicação (Painel)](http://vitallisdashboard.netlify.app)** . **[🔗 Acessar a aplicação (ChatBot)](https://sparkly-babka-2bba96.netlify.app/)** · **[📊 Notebook da AED]([notebooks/EC_Sprint_3_ChallengeOracle_DataForge_ML.ipynb](https://github.com/Daniel-Bissiato/Challenge-Oracle-FIAP/tree/main/notebooks))** · **[📖 Dicionário de dados](docs/dicionario_de_dados.md)**
 
 </div>
 
@@ -109,7 +109,7 @@ Além disso, uma base documental com mais de **10 mil documentos indexados** (da
 
 ## 📈 Principais Indicadores e Achados
 
-A Análise Exploratória de Dados (AED) completa está documentada no notebook [`EC_Sprint_3_ChallengeOracle_DataForge_ML.ipynb`](notebooks/EC_Sprint_3_ChallengeOracle_DataForge_ML.ipynb).
+A Análise Exploratória de Dados (AED) completa está documentada no notebook.
 
 <div align="center">
 
@@ -174,8 +174,8 @@ Grupo **Data Forge** — FIAP · Challenge Oracle
 
 | Nome | LinkedIn |
 |:---|:---:|
-| [Daniel Gomes Bissiato] | (https://www.linkedin.com/in/daniel-bissiato-b13a14344/) |
-| [Vinícius Barreto de Oliveira] | (https://www.linkedin.com/in/vin%C3%ADciusbarreto/) |
-| [Vitor Luiz Souza Costa] | () |
+| Daniel Gomes Bissiato | https://www.linkedin.com/in/daniel-bissiato-b13a14344/ |
+| Vinícius Barreto de Oliveira | https://www.linkedin.com/in/vin%C3%ADciusbarreto/ |
+| Vitor Luiz Souza Costa] | https://www.linkedin.com/in/vitor-l-souza-costa-3206b1406/ |
 
 </div>
