@@ -170,7 +170,7 @@ O script lê os arquivos brutos de `data/raw/`, valida consistência (duplicatas
 
 <div align="center">
 
-Grupo **Data Forge** — FIAP · Challenge Oracle
+Grupo **Data Forge** — FIAP · Vitallis
 
 | Nome | LinkedIn |
 |:---|:---:|
