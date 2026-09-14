@@ -1,0 +1,111 @@
+CREATE OR REPLACE FORCE EDITIONABLE VIEW "ADMIN"."VW_OES_MONITORAMENTO" ("DATA_REF", "TOTAL_EVENTOS", "CONSULTAS_SUCESSO", "CONSULTAS_BLOQUEADAS", "CONSULTAS_ERRO", "TEMPO_MEDIO_RESPOSTA_MS", "DECISOES_VALIDACAO_HUMANA", "EVENTOS_APO12", "EVENTOS_DSS05", "EVENTOS_MEA01", "TAXA_SUCESSO_PCT", "TAXA_BLOQUEIO_PCT", "TAXA_ERRO_PCT", "CONTROLE_COBIT_MONITORAMENTO") DEFAULT COLLATION "USING_NLS_COMP"  AS 
+  WITH BASE AS (
+    SELECT
+        TRUNC(DATA_HORA) AS DATA_REF,
+        INTENCAO,
+        TIPO_EVENTO,
+        STATUS_EXECUCAO,
+        STATUS_OES,
+        CONTROLE_COBIT,
+        VALIDACAO_HUMANA,
+        TEMPO_RESPOSTA_MS
+    FROM ADMIN.OES_AUDITORIA_DECISAO
+),
+
+RESUMO AS (
+    SELECT
+        DATA_REF,
+
+        COUNT(*) AS TOTAL_EVENTOS,
+
+        SUM(
+            CASE
+                WHEN STATUS_EXECUCAO = 'SUCESSO'
+                THEN 1 ELSE 0
+            END
+        ) AS CONSULTAS_SUCESSO,
+
+        SUM(
+            CASE
+                WHEN STATUS_EXECUCAO = 'BLOQUEADO'
+                THEN 1 ELSE 0
+            END
+        ) AS CONSULTAS_BLOQUEADAS,
+
+        SUM(
+            CASE
+                WHEN STATUS_EXECUCAO = 'ERRO'
+                THEN 1 ELSE 0
+            END
+        ) AS CONSULTAS_ERRO,
+
+        ROUND(
+            AVG(
+                CASE
+                    WHEN STATUS_EXECUCAO = 'SUCESSO'
+                    THEN TEMPO_RESPOSTA_MS
+                END
+            ),
+            2
+        ) AS TEMPO_MEDIO_RESPOSTA_MS,
+
+        SUM(
+            CASE
+                WHEN VALIDACAO_HUMANA = 'OBRIGATORIA'
+                  OR VALIDACAO_HUMANA = 'VALIDACAO_HUMANA_OBRIGATORIA'
+                THEN 1 ELSE 0
+            END
+        ) AS DECISOES_VALIDACAO_HUMANA,
+
+        SUM(
+            CASE
+                WHEN CONTROLE_COBIT = 'APO12'
+                THEN 1 ELSE 0
+            END
+        ) AS EVENTOS_APO12,
+
+        SUM(
+            CASE
+                WHEN CONTROLE_COBIT = 'DSS05'
+                THEN 1 ELSE 0
+            END
+        ) AS EVENTOS_DSS05,
+
+        SUM(
+            CASE
+                WHEN CONTROLE_COBIT = 'MEA01'
+                THEN 1 ELSE 0
+            END
+        ) AS EVENTOS_MEA01
+
+    FROM BASE
+    GROUP BY DATA_REF
+)
+
+SELECT
+    R."DATA_REF",R."TOTAL_EVENTOS",R."CONSULTAS_SUCESSO",R."CONSULTAS_BLOQUEADAS",R."CONSULTAS_ERRO",R."TEMPO_MEDIO_RESPOSTA_MS",R."DECISOES_VALIDACAO_HUMANA",R."EVENTOS_APO12",R."EVENTOS_DSS05",R."EVENTOS_MEA01",
+
+    ROUND(
+        CONSULTAS_SUCESSO
+        / NULLIF(TOTAL_EVENTOS, 0)
+        * 100,
+        2
+    ) AS TAXA_SUCESSO_PCT,
+
+    ROUND(
+        CONSULTAS_BLOQUEADAS
+        / NULLIF(TOTAL_EVENTOS, 0)
+        * 100,
+        2
+    ) AS TAXA_BLOQUEIO_PCT,
+
+    ROUND(
+        CONSULTAS_ERRO
+        / NULLIF(TOTAL_EVENTOS, 0)
+        * 100,
+        2
+    ) AS TAXA_ERRO_PCT,
+
+    'MEA01' AS CONTROLE_COBIT_MONITORAMENTO
+
+FROM RESUMO R;
