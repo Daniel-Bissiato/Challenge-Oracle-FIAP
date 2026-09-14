@@ -1,0 +1,239 @@
+CREATE OR REPLACE FORCE EDITIONABLE VIEW "ADMIN"."VW_OES_REALOCACAO" ("ANO", "UF_RECEPTORA", "RANK_PRIORIDADE_RECEPTORA", "SCORE_PRIORIDADE_RECEPTORA", "NIVEL_PRIORIDADE_RECEPTORA", "RANK_PRESSAO_RECEPTORA", "UF_APOIADORA", "RANK_MAIOR_CAPACIDADE", "RANK_MENOR_CAPACIDADE", "SCORE_CAPACIDADE", "CENARIO_CAPACIDADE", "RANK_PRESSAO_APOIADORA", "SCORE_SOBRECARGA_APOIADORA", "RANK_PRIORIDADE_APOIADORA", "SCORE_PRIORIDADE_APOIADORA", "NIVEL_PRIORIDADE_APOIADORA", "LEITOS_APOIADORA", "UTI_APOIADORA", "PONTO_LEITOS_SOBRECARGA", "PONTO_UTI_SOBRECARGA", "RISCO_PRESSAO", "RISCO_PRIORIDADE", "RISCO_UTI", "RISCO_LEITOS", "RISCO_CAPACIDADE", "SCORE_RISCO_REALOCACAO", "STATUS_OES", "RANK_APOIO_OES", "JUSTIFICATIVA_OES", "FATORES_RISCO_REALOCACAO", "CONTROLE_COBIT", "REGRA_OES", "VALIDACAO_FINAL") DEFAULT COLLATION "USING_NLS_COMP"  AS 
+  WITH RECEPTORES AS (
+    SELECT
+        NOME_UF,
+        ANO,
+        RANK_PRIORIDADE,
+        SCORE_PRIORIDADE,
+        NIVEL_PRIORIDADE,
+        RANK_PRESSAO,
+        SCORE_SOBRECARGA,
+        CENARIO_SOBRECARGA,
+        FATORES_RISCO,
+        FATORES_ATENUANTES
+    FROM ADMIN.VW_OES_PRIORIZACAO
+    WHERE RANK_PRIORIDADE <= 5
+),
+
+APOIADORES AS (
+    SELECT
+        I.NOME_UF,
+        I.ANO,
+
+        I.RANK_MAIOR_CAPACIDADE,
+        I.RANK_MENOR_CAPACIDADE,
+        I.SCORE_CAPACIDADE,
+        I.CENARIO_CAPACIDADE,
+
+        I.RANK_PRESSAO,
+        I.SCORE_SOBRECARGA,
+        I.CENARIO_SOBRECARGA,
+
+        I.LEITOS_POR_10K_HAB,
+        I.UTI_SUS_100K,
+
+        I.PONTO_LEITOS_SOBRECARGA,
+        I.PONTO_UTI_SOBRECARGA,
+
+        P.RANK_PRIORIDADE,
+        P.SCORE_PRIORIDADE,
+        P.NIVEL_PRIORIDADE
+
+    FROM ADMIN.VW_INTELIGENCIA_ASSISTENCIAL I
+
+    JOIN ADMIN.VW_OES_PRIORIZACAO P
+      ON P.NOME_UF = I.NOME_UF
+     AND P.ANO = I.ANO
+),
+
+AVALIACAO AS (
+    SELECT
+        R.ANO,
+
+        R.NOME_UF AS UF_RECEPTORA,
+        R.RANK_PRIORIDADE AS RANK_PRIORIDADE_RECEPTORA,
+        R.SCORE_PRIORIDADE AS SCORE_PRIORIDADE_RECEPTORA,
+        R.NIVEL_PRIORIDADE AS NIVEL_PRIORIDADE_RECEPTORA,
+        R.RANK_PRESSAO AS RANK_PRESSAO_RECEPTORA,
+
+        A.NOME_UF AS UF_APOIADORA,
+
+        A.RANK_MAIOR_CAPACIDADE,
+        A.RANK_MENOR_CAPACIDADE,
+        A.SCORE_CAPACIDADE,
+        A.CENARIO_CAPACIDADE,
+
+        A.RANK_PRESSAO AS RANK_PRESSAO_APOIADORA,
+        A.SCORE_SOBRECARGA AS SCORE_SOBRECARGA_APOIADORA,
+
+        A.RANK_PRIORIDADE AS RANK_PRIORIDADE_APOIADORA,
+        A.SCORE_PRIORIDADE AS SCORE_PRIORIDADE_APOIADORA,
+        A.NIVEL_PRIORIDADE AS NIVEL_PRIORIDADE_APOIADORA,
+
+        A.LEITOS_POR_10K_HAB AS LEITOS_APOIADORA,
+        A.UTI_SUS_100K AS UTI_APOIADORA,
+
+        A.PONTO_LEITOS_SOBRECARGA,
+        A.PONTO_UTI_SOBRECARGA,
+
+        /* =====================
+           COMPONENTES DE RISCO
+           ===================== */
+
+        CASE
+            WHEN A.RANK_PRESSAO <= 5 THEN 3
+            WHEN A.RANK_PRESSAO <= 10 THEN 1
+            ELSE 0
+        END AS RISCO_PRESSAO,
+
+        CASE
+            WHEN A.NIVEL_PRIORIDADE = 'PRIORIDADE_MUITO_ALTA' THEN 3
+            WHEN A.NIVEL_PRIORIDADE = 'PRIORIDADE_ALTA' THEN 2
+            WHEN A.NIVEL_PRIORIDADE = 'PRIORIDADE_MODERADA' THEN 1
+            ELSE 0
+        END AS RISCO_PRIORIDADE,
+
+        CASE
+            WHEN A.PONTO_UTI_SOBRECARGA = 1 THEN 2
+            ELSE 0
+        END AS RISCO_UTI,
+
+        CASE
+            WHEN A.PONTO_LEITOS_SOBRECARGA = 1 THEN 2
+            ELSE 0
+        END AS RISCO_LEITOS,
+
+        CASE
+            WHEN A.RANK_MAIOR_CAPACIDADE <= 5 THEN 0
+            WHEN A.RANK_MAIOR_CAPACIDADE <= 10 THEN 1
+            WHEN A.RANK_MAIOR_CAPACIDADE <= 15 THEN 2
+            ELSE 3
+        END AS RISCO_CAPACIDADE
+
+    FROM RECEPTORES R
+
+    JOIN APOIADORES A
+      ON A.ANO = R.ANO
+     AND A.NOME_UF <> R.NOME_UF
+),
+
+SCORE_RISCO AS (
+    SELECT
+        A.*,
+
+        (
+            RISCO_PRESSAO
+          + RISCO_PRIORIDADE
+          + RISCO_UTI
+          + RISCO_LEITOS
+          + RISCO_CAPACIDADE
+        ) AS SCORE_RISCO_REALOCACAO
+
+    FROM AVALIACAO A
+),
+
+CLASSIFICACAO AS (
+    SELECT
+        S.*,
+
+        CASE
+            WHEN SCORE_RISCO_REALOCACAO >= 6
+                THEN 'NAO_RECOMENDADO'
+
+            WHEN SCORE_RISCO_REALOCACAO >= 3
+                THEN 'CANDIDATO_COM_RESSALVAS'
+
+            ELSE 'CANDIDATO'
+        END AS STATUS_OES
+
+    FROM SCORE_RISCO S
+),
+
+RANKING AS (
+    SELECT
+        C.*,
+
+        ROW_NUMBER() OVER (
+            PARTITION BY ANO, UF_RECEPTORA
+            ORDER BY
+                CASE STATUS_OES
+                    WHEN 'CANDIDATO' THEN 1
+                    WHEN 'CANDIDATO_COM_RESSALVAS' THEN 2
+                    ELSE 3
+                END,
+                SCORE_RISCO_REALOCACAO ASC,
+                RANK_MAIOR_CAPACIDADE ASC,
+                RANK_PRESSAO_APOIADORA DESC,
+                UF_APOIADORA ASC
+        ) AS RANK_APOIO_OES
+
+    FROM CLASSIFICACAO C
+)
+
+SELECT
+    R."ANO",R."UF_RECEPTORA",R."RANK_PRIORIDADE_RECEPTORA",R."SCORE_PRIORIDADE_RECEPTORA",R."NIVEL_PRIORIDADE_RECEPTORA",R."RANK_PRESSAO_RECEPTORA",R."UF_APOIADORA",R."RANK_MAIOR_CAPACIDADE",R."RANK_MENOR_CAPACIDADE",R."SCORE_CAPACIDADE",R."CENARIO_CAPACIDADE",R."RANK_PRESSAO_APOIADORA",R."SCORE_SOBRECARGA_APOIADORA",R."RANK_PRIORIDADE_APOIADORA",R."SCORE_PRIORIDADE_APOIADORA",R."NIVEL_PRIORIDADE_APOIADORA",R."LEITOS_APOIADORA",R."UTI_APOIADORA",R."PONTO_LEITOS_SOBRECARGA",R."PONTO_UTI_SOBRECARGA",R."RISCO_PRESSAO",R."RISCO_PRIORIDADE",R."RISCO_UTI",R."RISCO_LEITOS",R."RISCO_CAPACIDADE",R."SCORE_RISCO_REALOCACAO",R."STATUS_OES",R."RANK_APOIO_OES",
+
+    CASE
+        WHEN STATUS_OES = 'CANDIDATO'
+        THEN
+            'A UF apresenta boa condição relativa de apoio e baixo risco assistencial pelas regras atuais.'
+
+        WHEN STATUS_OES = 'CANDIDATO_COM_RESSALVAS'
+        THEN
+            'A UF apresenta potencial de apoio, porém existem sinais de risco que exigem cautela na realocação.'
+
+        ELSE
+            'A UF apresenta risco elevado de comprometer sua própria capacidade assistencial caso seja utilizada como apoiadora.'
+    END AS JUSTIFICATIVA_OES,
+
+    RTRIM(
+          CASE
+              WHEN RISCO_PRESSAO >= 3
+              THEN 'alta pressão assistencial | '
+              WHEN RISCO_PRESSAO = 1
+              THEN 'pressão assistencial relevante | '
+              ELSE ''
+          END
+
+       || CASE
+              WHEN RISCO_PRIORIDADE >= 3
+              THEN 'prioridade própria muito alta | '
+              WHEN RISCO_PRIORIDADE = 2
+              THEN 'prioridade própria alta | '
+              WHEN RISCO_PRIORIDADE = 1
+              THEN 'prioridade própria moderada | '
+              ELSE ''
+          END
+
+       || CASE
+              WHEN RISCO_UTI > 0
+              THEN 'fragilidade relativa de UTI | '
+              ELSE ''
+          END
+
+       || CASE
+              WHEN RISCO_LEITOS > 0
+              THEN 'fragilidade relativa de leitos | '
+              ELSE ''
+          END
+
+       || CASE
+              WHEN RISCO_CAPACIDADE >= 3
+              THEN 'capacidade relativa desfavorável | '
+              WHEN RISCO_CAPACIDADE = 2
+              THEN 'capacidade relativa intermediária | '
+              WHEN RISCO_CAPACIDADE = 1
+              THEN 'capacidade relativa moderada | '
+              ELSE ''
+          END,
+
+        ' |'
+    ) AS FATORES_RISCO_REALOCACAO,
+
+    'APO12' AS CONTROLE_COBIT,
+
+    'MITIGACAO_RISCO_REALOCACAO' AS REGRA_OES,
+
+    'VALIDACAO_HUMANA_OBRIGATORIA' AS VALIDACAO_FINAL
+
+FROM RANKING R;
